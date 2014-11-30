@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"skinname-apex": "{{optional}}",
+	"apex-desc": "{{desc|what=skin|name=Apex|url=https://www.mediawiki.org/wiki/Skin:Apex}}",
+	"apex.css": "{{optional}}",
+	"apex.js": "{{optional}}",
+	"apex-action-addsection": "?",
+	"apex-action-delete": "?",
+	"apex-action-move": "?",
+	"apex-action-protect": "?",
+	"apex-action-undelete": "?",
+	"apex-action-unprotect": "?",
+	"apex-simplesearch-preference": "?",
+	"apex-view-create": "?",
+	"apex-view-edit": "?",
+	"apex-view-history": "?",
+	"apex-view-view": "?",
+	"apex-view-viewsource": "?"
+}
