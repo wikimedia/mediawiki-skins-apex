@@ -79,7 +79,7 @@ class ApexTemplate extends BaseTemplate {
 				<?php if ( $this->data['sitenotice'] ): ?>
 				<div id="siteNotice"><?php $this->html( 'sitenotice' ) ?></div>
 				<?php endif; ?>
-				<h1 id="firstHeading" class="firstHeading"><span dir="auto"><?php $this->html( 'title' ) ?></span></h1>
+				<h1 id="firstHeading" class="firstHeading"><?php $this->html( 'title' ) ?></h1>
 				<div id="bodyContent">
 					<?php if ( $this->data['isarticle'] ): ?>
 					<div id="siteSub"><?php $this->msg( 'tagline' ) ?></div>
