@@ -11,6 +11,9 @@
 	"ValidSkinNames": {
 		"apex": "Apex"
 	},
+	"SkinOOUIThemes": {
+		"apex": "apex"
+	},
 	"MessagesDirs": {
 		"apex": [
 			"i18n"
