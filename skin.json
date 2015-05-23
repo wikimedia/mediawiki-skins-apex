@@ -1,0 +1,49 @@
+{
+	"name": "Apex",
+	"author": [
+		"Trevor Parscal"
+	],
+	"url": "https://www.mediawiki.org/wiki/Skin:Apex",
+	"descriptionmsg": "apex-desc",
+	"namemsg": "skinname-apex",
+	"license-name": "GPLv2+",
+	"type": "skin",
+	"ValidSkinNames": {
+		"apex": "Apex"
+	},
+	"MessagesDirs": {
+		"apex": [
+			"i18n"
+		]
+	},
+	"AutoloadClasses": {
+		"SkinApex": "SkinApex.php",
+		"ApexTemplate": "ApexTemplate.php"
+	},
+	"ResourceModules": {
+		"skins.apex": {
+			"styles": {
+				"resources/screen.css": {
+					"media": "screen"
+				},
+				"resources/screen-narrow.css": {
+					"media": "screen and (max-width: 700px)"
+				},
+				"resources/screen-wide.css": {
+					"media": "screen and (min-width: 982px)"
+				}
+			},
+			"scripts": "resources/apex.js"
+		}
+	},
+	"ResourceFileModulePaths": {
+		"localBasePath": "",
+		"remoteSkinPath": "apex"
+	},
+	"config": {
+		"ApexLogo": {
+			"1x": false,
+			"2x": false
+		}
+	}
+}
