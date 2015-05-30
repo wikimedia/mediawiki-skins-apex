@@ -22,6 +22,7 @@
 	},
 	"ResourceModules": {
 		"skins.apex": {
+			"position": "bottom",
 			"styles": {
 				"resources/screen.css": {
 					"media": "screen"
