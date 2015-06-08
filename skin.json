@@ -6,7 +6,7 @@
 	"url": "https://www.mediawiki.org/wiki/Skin:Apex",
 	"descriptionmsg": "apex-desc",
 	"namemsg": "skinname-apex",
-	"license-name": "GPLv2+",
+	"license-name": "GPL-2.0+",
 	"type": "skin",
 	"ValidSkinNames": {
 		"apex": "Apex"
