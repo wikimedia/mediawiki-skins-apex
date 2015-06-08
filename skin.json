@@ -49,5 +49,6 @@
 			"1x": false,
 			"2x": false
 		}
-	}
+	},
+	"manifest_version": 1
 }
