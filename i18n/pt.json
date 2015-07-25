@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vitorvicentevalente"
+		]
+	},
+	"apex-desc": "Versão moderna do Vetor com novo visual e muitas melhorias de usabilidade",
+	"apex-action-addsection": "Adicionar tópico",
+	"apex-action-delete": "Eliminar",
+	"apex-action-move": "Mover",
+	"apex-action-protect": "Proteger",
+	"apex-action-undelete": "Restaurar",
+	"apex-action-unprotect": "Alterar proteção",
+	"apex-view-create": "Criar",
+	"apex-view-edit": "Editar",
+	"apex-view-history": "Ver histórico",
+	"apex-view-view": "Ler",
+	"apex-view-viewsource": "Ver código-fonte"
+}
