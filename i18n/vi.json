@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
+	"skinname-apex": "Đỉnh",
+	"apex-desc": "Giao diện làm lại từ Vectơ có màu tươi và khả dụng hơn",
+	"apex.css": "/* Mã CSS tại đây sẽ ảnh hưởng đến những người dùng sử dụng giao diện Đỉnh */",
+	"apex.js": "/* Mã JavaScript tại đây sẽ được tải khi người dùng sử dụng giao diện Đỉnh */",
+	"apex-action-addsection": "Thêm chủ đề",
+	"apex-action-delete": "Xóa",
+	"apex-action-move": "Di chuyển",
+	"apex-action-protect": "Khóa",
+	"apex-action-undelete": "Phục hồi",
+	"apex-action-unprotect": "Đổi mức khóa",
+	"apex-view-create": "Tạo mới",
+	"apex-view-edit": "Sửa đổi",
+	"apex-view-history": "Xem lịch sử",
+	"apex-view-view": "Đọc",
+	"apex-view-viewsource": "Xem mã nguồn"
+}

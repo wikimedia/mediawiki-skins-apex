@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"apex-desc": "提供清新的外观和很多可用性改进的现代版Vector",
+	"apex-action-addsection": "添加话题",
+	"apex-action-delete": "删除",
+	"apex-action-move": "移动",
+	"apex-action-protect": "保护",
+	"apex-action-undelete": "还原",
+	"apex-action-unprotect": "更改保护",
+	"apex-view-create": "创建",
+	"apex-view-edit": "编辑",
+	"apex-view-history": "查看历史",
+	"apex-view-view": "阅读",
+	"apex-view-viewsource": "查看源代码"
+}

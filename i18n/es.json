@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe"
+		]
+	},
+	"apex-desc": "Versión moderna de Vector, con un aspecto actualizado y muchas mejoras de usabilidad",
+	"apex-action-addsection": "Añadir tema",
+	"apex-action-delete": "Borrar",
+	"apex-action-move": "Trasladar",
+	"apex-action-protect": "Proteger",
+	"apex-action-undelete": "Restaurar",
+	"apex-action-unprotect": "Cambiar protección",
+	"apex-view-create": "Crear",
+	"apex-view-edit": "Editar",
+	"apex-view-history": "Ver historial",
+	"apex-view-view": "Leer",
+	"apex-view-viewsource": "Ver código"
+}

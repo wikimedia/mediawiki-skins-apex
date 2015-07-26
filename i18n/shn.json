@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Saosukham"
+		]
+	},
+	"apex-action-addsection": "ထႅမ်သႂ်ႇ ႁူဝ်ၶေႃႈ",
+	"apex-action-delete": "ယႃႉ",
+	"apex-action-move": "ၶၢႆႉ",
+	"apex-action-protect": "ႁေႉၵင်ႈ",
+	"apex-action-undelete": "ဢမ်ႇယႃႉ",
+	"apex-action-unprotect": "လႅၵ်ႈလၢႆႈ ၵၢၼ်ႁေႉၵင်ႈ",
+	"apex-view-create": "သၢင်ႈ",
+	"apex-view-edit": "မႄးထတ်း",
+	"apex-view-history": "ၼႄပိုၼ်း",
+	"apex-view-view": "လူတူၺ်း",
+	"apex-view-viewsource": "ၼႄ ငဝ်ႈငႃႇ"
+}

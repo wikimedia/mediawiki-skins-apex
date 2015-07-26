@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wintereu"
+		]
+	},
+	"apex-action-addsection": "Adaugă un subiect",
+	"apex-action-delete": "Șterge",
+	"apex-action-move": "Mută",
+	"apex-action-protect": "Protejare",
+	"apex-action-undelete": "Recuperare",
+	"apex-action-unprotect": "Schimbă protecția",
+	"apex-view-create": "Creează",
+	"apex-view-edit": "Modifică",
+	"apex-view-history": "Vizualizare istoric",
+	"apex-view-view": "Citește"
+}

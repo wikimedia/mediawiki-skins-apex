@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"apex-desc": "Современа верзија на рувото „Векторско“ со свеж изглед и многу подобрувања на употребливоста",
+	"apex-action-addsection": "Додај тема",
+	"apex-action-delete": "Избриши",
+	"apex-action-move": "Премести",
+	"apex-action-protect": "Заштити",
+	"apex-action-undelete": "Поврати",
+	"apex-action-unprotect": "Измени заштита",
+	"apex-view-create": "Создај",
+	"apex-view-edit": "Уреди",
+	"apex-view-history": "Историја",
+	"apex-view-view": "Читај",
+	"apex-view-viewsource": "Извор"
+}

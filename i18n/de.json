@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"apex-desc": "Eine moderne Version von Vector mit einem frischen Aussehen und vielen Benutzerfreundlichkeitsverbesserungen",
+	"apex-action-addsection": "Thema hinzufügen",
+	"apex-action-delete": "Löschen",
+	"apex-action-move": "Verschieben",
+	"apex-action-protect": "Schützen",
+	"apex-action-undelete": "Wiederherstellen",
+	"apex-action-unprotect": "Schutz ändern",
+	"apex-view-create": "Erstellen",
+	"apex-view-edit": "Bearbeiten",
+	"apex-view-history": "Versionsgeschichte",
+	"apex-view-view": "Lesen",
+	"apex-view-viewsource": "Quelltext betrachten"
+}

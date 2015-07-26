@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"apex-desc": "En modärne Väsjohn vun dä älldere Bedehnbovverfläsch „<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\">Vector</i>“ met enem neue Ußsinn un Verbäßeronge bem Bedehne.",
+	"apex-action-addsection": "Tehma derbeidonn",
+	"apex-action-delete": "Fottschmiiße",
+	"apex-action-move": "Ömbenänne",
+	"apex-action-protect": "Schöze",
+	"apex-action-undelete": "Zerökholle",
+	"apex-action-unprotect": "Schoz ändere",
+	"apex-view-create": "Aanlähje",
+	"apex-view-edit": "Ändere",
+	"apex-view-history": "De Väsohne belohre",
+	"apex-view-view": "Lässe",
+	"apex-view-viewsource": "Wikkitäx aanlohre"
+}

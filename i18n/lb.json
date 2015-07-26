@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"apex-desc": "Modern Versioun vu Vecor tmat frëschem Look a ville Verbesserunge vun der Benotzerfrëndlechkeet",
+	"apex-action-addsection": "Sujet derbäisetzen",
+	"apex-action-delete": "Läschen",
+	"apex-action-move": "Réckelen",
+	"apex-action-protect": "Spären",
+	"apex-action-undelete": "Restauréieren",
+	"apex-action-unprotect": "Spär änneren",
+	"apex-view-create": "Uleeën",
+	"apex-view-edit": "Änneren",
+	"apex-view-history": "Versioune weisen",
+	"apex-view-view": "Liesen",
+	"apex-view-viewsource": "Quellcode weisen"
+}
