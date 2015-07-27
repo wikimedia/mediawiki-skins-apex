@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Chrumps"
+			"Chrumps",
+			"The Polish"
 		]
 	},
 	"apex-desc": "Odświeżona wersja skórki Wektor, z nowym wyglądem i usprawnieniami",
+	"apex-action-addsection": "Dodaj wątek",
 	"apex-action-delete": "Usuń",
 	"apex-action-move": "Przenieś",
 	"apex-action-protect": "Zabezpiecz",

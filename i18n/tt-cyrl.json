@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ильнар"
+		]
+	},
+	"apex-action-addsection": "Тема өстәү",
+	"apex-action-delete": "Бетерү",
+	"apex-action-move": "Күчерү",
+	"apex-action-protect": "Яклау",
+	"apex-action-undelete": "Кайтару",
+	"apex-action-unprotect": "Яклауны үзгәртү",
+	"apex-view-create": "Төзү",
+	"apex-view-edit": "Үзгәртү",
+	"apex-view-history": "Тарихын карау",
+	"apex-view-view": "Уку",
+	"apex-view-viewsource": "Чыганагын карау"
+}
