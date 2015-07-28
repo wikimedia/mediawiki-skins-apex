@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe"
+		]
+	},
+	"apex-action-addsection": "Aggiungi argomento",
+	"apex-action-delete": "Cancella",
+	"apex-action-move": "Sposta",
+	"apex-action-protect": "Proteggi",
+	"apex-action-undelete": "Ripristina",
+	"apex-action-unprotect": "Cambia la protezione",
+	"apex-view-create": "Crea",
+	"apex-view-edit": "Modifica",
+	"apex-view-history": "Visualizza cronologia",
+	"apex-view-view": "Leggi",
+	"apex-view-viewsource": "Visualizza wikitesto"
+}

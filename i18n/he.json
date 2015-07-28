@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"apex-desc": "גרסה מודרנית של וקטור עם מראה טרי והרבה שיפורי שמישות",
+	"apex-action-addsection": "הוספת נושא",
+	"apex-action-delete": "מחיקה",
+	"apex-action-move": "העברה",
+	"apex-action-protect": "הגנה",
+	"apex-action-undelete": "שחזור ממחיקה",
+	"apex-action-unprotect": "שינוי הגנה",
+	"apex-view-create": "יצירה",
+	"apex-view-edit": "עריכה",
+	"apex-view-history": "הצגת היסטוריה",
+	"apex-view-view": "קריאה",
+	"apex-view-viewsource": "הצגת מקור"
+}

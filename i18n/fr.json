@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ash Crow",
+			"Macofe"
+		]
+	},
+	"apex-desc": "Version moderne de Vector avec un aspect rajeuni et beaucoup d’améliorations ergonomiques",
+	"apex-action-addsection": "Ajouter un sujet",
+	"apex-action-delete": "Supprimer",
+	"apex-action-move": "Déplacer",
+	"apex-action-protect": "Protéger",
+	"apex-action-undelete": "Rétablir",
+	"apex-action-unprotect": "Changer la protection",
+	"apex-view-create": "Créer",
+	"apex-view-edit": "Modifier",
+	"apex-view-history": "Afficher l’historique",
+	"apex-view-view": "Lire",
+	"apex-view-viewsource": "Voir la source"
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Macofe"
+		]
+	},
+	"apex-action-addsection": "Afegeix un tema",
+	"apex-action-delete": "Suprimeix",
+	"apex-action-move": "Mou",
+	"apex-action-protect": "Protegeix",
+	"apex-action-undelete": "Restaura",
+	"apex-action-unprotect": "Canvia la protecció",
+	"apex-view-create": "Crea",
+	"apex-view-edit": "Modifica",
+	"apex-view-history": "Mostra l’historial",
+	"apex-view-viewsource": "Mostra el codi"
+}
