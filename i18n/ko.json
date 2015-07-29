@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"아라"
+		]
+	},
+	"apex-desc": "신선해 보이고 많은 사용성이 개선된 벡터의 현대 버전",
+	"apex-action-addsection": "주제 추가",
+	"apex-action-delete": "삭제",
+	"apex-action-move": "옮기기",
+	"apex-action-protect": "보호",
+	"apex-action-undelete": "삭제 취소",
+	"apex-action-unprotect": "보호 설정 바꾸기",
+	"apex-view-create": "만들기",
+	"apex-view-edit": "편집",
+	"apex-view-history": "역사 보기",
+	"apex-view-view": "읽기",
+	"apex-view-viewsource": "원본 보기"
+}

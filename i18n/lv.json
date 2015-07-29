@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"apex-action-addsection": "Pievienot tēmu",
+	"apex-action-delete": "Dzēst",
+	"apex-action-move": "Pārvietot",
+	"apex-action-protect": "Aizsargāt",
+	"apex-action-undelete": "Atjaunot",
+	"apex-action-unprotect": "Mainīt aizsardzību",
+	"apex-view-create": "Izveidot",
+	"apex-view-edit": "Labot",
+	"apex-view-history": "Skatīt vēsturi",
+	"apex-view-view": "Lasīt",
+	"apex-view-viewsource": "Aplūkot kodu"
+}

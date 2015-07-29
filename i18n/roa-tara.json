@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"apex-desc": "Versione moderne de Vector cu 'nu sguarde aggiornate e 'nu sbuènne de miglioramende sus a l'ausabbilità",
+	"apex-action-delete": "Scangille",
+	"apex-action-move": "Spuèste",
+	"apex-action-protect": "Protegge",
+	"apex-action-undelete": "Repristine",
+	"apex-action-unprotect": "Cange 'a protezione",
+	"apex-view-create": "Ccreje",
+	"apex-view-edit": "Cange",
+	"apex-view-history": "'Ndruche 'u cunde",
+	"apex-view-view": "Ligge"
+}

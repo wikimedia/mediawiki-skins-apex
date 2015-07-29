@@ -1,17 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wintereu"
+			"Wintereu",
+			"Minisarm"
 		]
 	},
 	"apex-action-addsection": "Adaugă un subiect",
-	"apex-action-delete": "Șterge",
-	"apex-action-move": "Mută",
+	"apex-action-delete": "Ștergere",
+	"apex-action-move": "Redenumire",
 	"apex-action-protect": "Protejare",
 	"apex-action-undelete": "Recuperare",
-	"apex-action-unprotect": "Schimbă protecția",
-	"apex-view-create": "Creează",
-	"apex-view-edit": "Modifică",
+	"apex-action-unprotect": "Modificare protecție",
+	"apex-view-create": "Creare",
+	"apex-view-edit": "Modificare",
 	"apex-view-history": "Vizualizare istoric",
-	"apex-view-view": "Citește"
+	"apex-view-view": "Lectură"
 }
