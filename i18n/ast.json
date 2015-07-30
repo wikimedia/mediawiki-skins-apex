@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"apex-desc": "Versión moderna de Vector, con un aspeutu frescu y munchos ameyoramientos d'usabilidá",
+	"apex-action-addsection": "Amestar un asuntu",
+	"apex-action-delete": "Desaniciar",
+	"apex-action-move": "Treslladar",
+	"apex-action-protect": "Protexer",
+	"apex-action-undelete": "Restaurar",
+	"apex-action-unprotect": "Camudar la proteición",
+	"apex-view-create": "Crear",
+	"apex-view-edit": "Editar",
+	"apex-view-history": "Ver historial",
+	"apex-view-view": "Lleer",
+	"apex-view-viewsource": "Ver códigu fonte"
+}

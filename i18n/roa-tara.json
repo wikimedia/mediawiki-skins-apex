@@ -5,6 +5,7 @@
 		]
 	},
 	"apex-desc": "Versione moderne de Vector cu 'nu sguarde aggiornate e 'nu sbuènne de miglioramende sus a l'ausabbilità",
+	"apex-action-addsection": "Aggiunge 'na discussiona",
 	"apex-action-delete": "Scangille",
 	"apex-action-move": "Spuèste",
 	"apex-action-protect": "Protegge",
@@ -13,5 +14,6 @@
 	"apex-view-create": "Ccreje",
 	"apex-view-edit": "Cange",
 	"apex-view-history": "'Ndruche 'u cunde",
-	"apex-view-view": "Ligge"
+	"apex-view-view": "Ligge",
+	"apex-view-viewsource": "'Ndruche 'a sorgende"
 }
