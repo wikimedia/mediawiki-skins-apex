@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"ViDam"
+		]
+	},
+	"apex-desc": "A Vector felület modern változata frissebb kinézettel és sok használhatóságot javító fejlesztéssel",
+	"apex-action-addsection": "Új téma nyitása",
+	"apex-action-delete": "Törlés",
+	"apex-action-move": "Áthelyezés",
+	"apex-action-protect": "Lapvédelem",
+	"apex-action-undelete": "Visszaállítás",
+	"apex-action-unprotect": "Védelem módosítása",
+	"apex-view-create": "Létrehozás",
+	"apex-view-edit": "Szerkesztés",
+	"apex-view-history": "Laptörténet",
+	"apex-view-view": "Olvasás",
+	"apex-view-viewsource": "Forrás megtekintése"
+}

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Okras"
+			"Okras",
+			"SmartNart12"
 		]
 	},
 	"apex-action-addsection": "Добавить тему",
@@ -13,5 +14,6 @@
 	"apex-view-create": "Создать",
 	"apex-view-edit": "Править",
 	"apex-view-history": "Посмотреть историю",
-	"apex-view-view": "Читать"
+	"apex-view-view": "Читать",
+	"apex-view-viewsource": ""
 }
