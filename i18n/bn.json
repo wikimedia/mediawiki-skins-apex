@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aftabuzzaman"
+		]
+	},
+	"apex-action-addsection": "প্রসঙ্গ যোগ করুন",
+	"apex-action-delete": "অপসারণ",
+	"apex-action-move": "স্থানান্তর",
+	"apex-action-protect": "সুরক্ষা",
+	"apex-action-undelete": "পুনরুদ্ধার",
+	"apex-action-unprotect": "সুরক্ষা পরিবর্তন",
+	"apex-view-create": "তৈরি করুন",
+	"apex-view-edit": "সম্পাদনা",
+	"apex-view-history": "ইতিহাস দেখুন",
+	"apex-view-view": "পড়ুন",
+	"apex-view-viewsource": "উৎস দেখুন"
+}

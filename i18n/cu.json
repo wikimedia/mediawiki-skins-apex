@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Илья Драконов"
+		]
+	},
+	"apex-action-addsection": "Добавить тему",
+	"apex-action-delete": "Удалить",
+	"apex-action-move": "Переместить",
+	"apex-action-protect": "Защитить",
+	"apex-action-undelete": "Восстановить",
+	"apex-view-create": "Създать",
+	"apex-view-edit": "Править",
+	"apex-view-history": "История",
+	"apex-view-view": "Читать",
+	"apex-view-viewsource": "Вид източник"
+}
