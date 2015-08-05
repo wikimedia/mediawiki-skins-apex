@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ата"
+		]
+	},
+	"apex-desc": "Сучасна версія Vector зі свіжим виглядом і багатьма покращеннями зручності",
+	"apex-action-addsection": "Додати тему",
+	"apex-action-delete": "Вилучити",
+	"apex-action-move": "Перейменувати",
+	"apex-action-protect": "Захистити",
+	"apex-action-undelete": "Відновити",
+	"apex-action-unprotect": "Змінити захист",
+	"apex-view-create": "Створити",
+	"apex-view-edit": "Редагувати",
+	"apex-view-history": "Переглянути історію",
+	"apex-view-view": "Читати",
+	"apex-view-viewsource": "Переглянути код"
+}

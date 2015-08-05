@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vaishali Parab"
+		]
+	},
+	"apex-action-addsection": "माथाळो जोडात",
+	"apex-action-delete": "काडून उडयात",
+	"apex-action-move": "दुसरेकडे व्हरात",
+	"apex-action-protect": "संरक्षीत करात",
+	"apex-view-create": "निर्माण करात",
+	"apex-view-edit": "संपादन",
+	"apex-view-history": "इतिहास पळेयात",
+	"apex-view-view": "वाचचें"
+}
