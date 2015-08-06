@@ -224,7 +224,7 @@ class ApexTemplate extends BaseTemplate {
 <?php
 			endforeach;
 			if ( $hook !== null ) {
-				wfRunHooks( $hook, array( &$this, true ) );
+				Hooks::run( $hook, array( &$this, true ) );
 			}
 			?>
 		</ul>
