@@ -1,8 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Cwlin0416"
 		]
 	},
-	"apex-action-addsection": "新增話題"
+	"apex-action-addsection": "新增話題",
+	"apex-action-delete": "刪除",
+	"apex-action-move": "移動",
+	"apex-action-protect": "保護",
+	"apex-action-undelete": "取消刪除",
+	"apex-action-unprotect": "更改保護",
+	"apex-view-create": "建立",
+	"apex-view-edit": "編輯",
+	"apex-view-history": "檢視歷史",
+	"apex-view-view": "閱讀",
+	"apex-view-viewsource": "檢視原始碼"
 }

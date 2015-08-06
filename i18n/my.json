@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Zawthet"
+			"Zawthet",
+			"Akhin57"
 		]
 	},
 	"apex-action-addsection": "အကြောင်းအရာအသစ် ထပ်ထည့်ရန်",
@@ -9,7 +10,7 @@
 	"apex-action-move": "ရွှေ့ရန်",
 	"apex-action-protect": "ထိန်း​သိမ်း​ပါ​",
 	"apex-action-undelete": "မဖျက်တော့ရန်",
-	"apex-action-unprotect": "ကာကွယ်ခြင်းကို ပြောင်းလဲရန်",
+	"apex-action-unprotect": "ပြောင်းလဲမှုများ ကာကွယ်ရန်",
 	"apex-view-create": "စတင်ရေးသားရန်",
 	"apex-view-edit": "ပြင်​ဆင်​ရန်​",
 	"apex-view-history": "ရာဇဝင်ကြည့်ရန်",

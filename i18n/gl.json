@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"apex-desc": "Versión moderna da aparencia Vector, cun aspecto actualizado e moitas melloras de usabilidade",
+	"apex-action-addsection": "Engadir un fío",
+	"apex-action-delete": "Borrar",
+	"apex-action-move": "Mover",
+	"apex-action-protect": "Protexer",
+	"apex-action-undelete": "Restaurar",
+	"apex-action-unprotect": "Cambiar a protección",
+	"apex-view-create": "Crear",
+	"apex-view-edit": "Editar",
+	"apex-view-history": "Ver o historial",
+	"apex-view-view": "Ler",
+	"apex-view-viewsource": "Ver o código fonte"
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sudachi"
+		]
+	},
+	"apex-action-delete": "削除",
+	"apex-view-create": "作成",
+	"apex-view-edit": "編集",
+	"apex-view-history": "履歴を表示"
+}
