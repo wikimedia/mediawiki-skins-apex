@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"apex-desc": "Version moderne de Vector con un aspecto rejuvenescite e multe meliorationes ergonomic",
+	"apex-action-addsection": "Adder topico",
+	"apex-action-delete": "Deler",
+	"apex-action-move": "Displaciar",
+	"apex-action-protect": "Proteger",
+	"apex-action-undelete": "Restaurar",
+	"apex-action-unprotect": "Cambiar protection",
+	"apex-view-create": "Crear",
+	"apex-view-edit": "Modificar",
+	"apex-view-history": "Vider historia",
+	"apex-view-view": "Leger",
+	"apex-view-viewsource": "Vider fonte"
+}

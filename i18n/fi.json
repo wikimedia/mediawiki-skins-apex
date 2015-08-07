@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pitke"
+		]
+	},
+	"apex-desc": "Vectorin uudistettu versio, jossa raikas ilme ja parannettu käytttävyys",
+	"apex-action-delete": "Poista",
+	"apex-action-move": "Siirrä",
+	"apex-action-protect": "Suojaa",
+	"apex-action-unprotect": "Muuta suojausta",
+	"apex-view-create": "Luo",
+	"apex-view-edit": "Muokkaa",
+	"apex-view-history": "Näytä historia",
+	"apex-view-view": "Lue",
+	"apex-view-viewsource": "Näytä lähdekoodi"
+}
