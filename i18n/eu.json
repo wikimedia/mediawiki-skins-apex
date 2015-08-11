@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sator"
+		]
+	},
+	"apex-action-addsection": "Gehitu atala",
+	"apex-action-delete": "Ezabatu",
+	"apex-action-move": "Mugitu",
+	"apex-action-protect": "Babestu",
+	"apex-action-undelete": "Berreskuratu",
+	"apex-view-create": "Sortu",
+	"apex-view-edit": "Aldatu",
+	"apex-view-history": "Ikusi historia",
+	"apex-view-view": "Irakurri"
+}
