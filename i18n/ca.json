@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Macofe"
+			"Macofe",
+			"Eduardo Martinez"
 		]
 	},
 	"apex-action-addsection": "Afegeix un tema",
@@ -11,7 +12,7 @@
 	"apex-action-undelete": "Restaura",
 	"apex-action-unprotect": "Canvia la protecció",
 	"apex-view-create": "Crea",
-	"apex-view-edit": "Modifica",
+	"apex-view-edit": "Edita",
 	"apex-view-history": "Mostra l’historial",
-	"apex-view-viewsource": "Mostra el codi"
+	"apex-view-viewsource": "Mostra la font"
 }
