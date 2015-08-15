@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"The Discoverer"
+		]
+	},
+	"apex-action-addsection": "Vixoi zodd",
+	"apex-action-delete": "Kadun udoi",
+	"apex-action-move": "Haloi",
+	"apex-action-protect": "Rakh",
+	"apex-view-create": "Roch",
+	"apex-view-edit": "Bodol",
+	"apex-view-history": "Itihas polloi",
+	"apex-view-view": "Vach",
+	"apex-view-viewsource": "Mull polloi"
+}
