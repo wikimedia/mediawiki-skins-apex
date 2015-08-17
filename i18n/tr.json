@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mavrikant"
+		]
+	},
+	"apex-action-delete": "Sil",
+	"apex-action-move": "Taşı",
+	"apex-action-protect": "Koru",
+	"apex-action-undelete": "Silinmeyi geri al",
+	"apex-action-unprotect": "Korumayı değiştir",
+	"apex-view-edit": "Değiştir",
+	"apex-view-view": "Oku"
+}
