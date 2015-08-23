@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"គីមស៊្រុន"
+		]
+	},
+	"apex-action-addsection": "បន្ថែម​ប្រធានបទ​",
+	"apex-action-delete": "លុបចោល",
+	"apex-action-move": "ប្តូរទីតាំង",
+	"apex-action-protect": "ការពារ",
+	"apex-action-undelete": "ឈប់លុបចោល",
+	"apex-action-unprotect": "ប្ដូរការការពារ",
+	"apex-view-create": "បង្កើត​",
+	"apex-view-edit": "កែប្រែ",
+	"apex-view-history": "មើល​ប្រវត្តិ​",
+	"apex-view-view": "អាន",
+	"apex-view-viewsource": "មើល​កូដ"
+}
