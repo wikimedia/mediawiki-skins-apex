@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"아라"
+			"아라",
+			"Revi"
 		]
 	},
 	"apex-desc": "신선해 보이고 많은 사용성이 개선된 벡터의 현대 버전",
-	"apex-action-addsection": "주제 추가",
+	"apex-action-addsection": "새 주제",
 	"apex-action-delete": "삭제",
 	"apex-action-move": "옮기기",
 	"apex-action-protect": "보호",
