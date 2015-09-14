@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mashoi7"
+		]
+	},
+	"apex-action-addsection": "Ližiä tiemu",
+	"apex-action-delete": "Ota iäre",
+	"apex-action-move": "Siirrä",
+	"apex-action-protect": "Suojua",
+	"apex-view-create": "Luaji",
+	"apex-view-history": "Ozuta histourii",
+	"apex-view-view": "Luve",
+	"apex-view-viewsource": "Kačo algukoodu"
+}
