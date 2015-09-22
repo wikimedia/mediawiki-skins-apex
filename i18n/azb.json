@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ebrahimi-amir"
+		]
+	},
+	"apex-action-addsection": "قوْنو آرتیر",
+	"apex-action-delete": "سیل",
+	"apex-action-move": "داشی",
+	"apex-action-protect": "قوْرو",
+	"apex-action-undelete": "سیلمگی قایتار",
+	"apex-action-unprotect": "قوْروماغی دَییشدیر",
+	"apex-view-create": "یارات",
+	"apex-view-edit": "دَییشدیر",
+	"apex-view-history": "گئچمیشه باخ",
+	"apex-view-view": "اوْخو",
+	"apex-view-viewsource": "قایناغا باخ"
+}
