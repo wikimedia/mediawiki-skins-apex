@@ -2,7 +2,7 @@
 	"@metadata": {
 		"authors": []
 	},
-	"apex-skinname": "Apex",
+	"skinname-apex": "Apex",
 	"apex-desc": "Modern version of Vector with fresh look and many usability improvements",
 	"apex.css": "/* CSS placed here will affect users of the Apex skin */",
 	"apex.js": "/* Any JavaScript here will be loaded for users using the Apex skin */",
