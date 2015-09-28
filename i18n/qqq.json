@@ -1,5 +1,9 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Raymond"
+		]
+	},
 	"skinname-apex": "{{optional}}",
 	"apex-desc": "{{desc|what=skin|name=Apex|url=https://www.mediawiki.org/wiki/Skin:Apex}}",
 	"apex.css": "{{optional}}",
