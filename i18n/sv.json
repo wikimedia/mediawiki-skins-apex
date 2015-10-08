@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jopparn"
+			"Jopparn",
+			"WikiPhoenix"
 		]
 	},
+	"skinname-apex": "Apex",
 	"apex-desc": "Modern version av Vektor med ett nytt utseende och flera användarvänlighetsförbättringar",
 	"apex-action-addsection": "Lägg till ämne",
 	"apex-action-delete": "Radera",
