@@ -4,10 +4,12 @@
 			"Taresi"
 		]
 	},
+	"apex-action-addsection": "Xicahxilti netlahtōlpepechtiliztli",
 	"apex-action-delete": "Xicpolo",
 	"apex-action-move": "Xiczaca",
 	"apex-action-protect": "Xicpiya",
 	"apex-action-undelete": "Xicmāquīxti",
+	"apex-action-unprotect": "Xicpatla tlapiyaliztli",
 	"apex-view-create": "Xicchīhua",
 	"apex-view-edit": "Xicpatla",
 	"apex-view-history": "Xiquitta tlahtōllōtl",
