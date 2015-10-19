@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Raymond",
-			"Aursani"
+			"Aursani",
+			"Macofe"
 		]
 	},
 	"skinname-apex": "{{optional}}",
@@ -18,6 +19,6 @@
 	"apex-view-create": "Tab label in the Apex skin. See for example {{canonicalurl:Foo|useskin=apex}}\n{{Identical|Create}}",
 	"apex-view-edit": "Tab label in the Apex skin. See for example {{canonicalurl:Main_Page|useskin=apex}}\n{{Identical|Edit}}",
 	"apex-view-history": "Tab label in the Apex skin. See for example {{canonicalurl:Main_Page|useskin=apex}}\n{{Identical|View history}}",
-	"apex-view-view": "Tab label in the Apex skin (verb). See for example {{canonicalurl:Main_Page|useskin=apex}}.\n{{Identical|پڙهو}}",
+	"apex-view-view": "Tab label in the Apex skin (verb). See for example {{canonicalurl:Main_Page|useskin=apex}}.\n{{Identical|Read}}",
 	"apex-view-viewsource": "Tab label in the Apex skin.\n{{Identical|View source}}"
 }
