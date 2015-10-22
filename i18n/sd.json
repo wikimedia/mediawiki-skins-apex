@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aursani"
+		]
+	},
+	"apex-action-addsection": "عنوان ڏيو",
+	"apex-action-delete": "ڊاهيو",
+	"apex-action-move": "چوريو",
+	"apex-action-protect": "تحفظيو",
+	"apex-action-undelete": "اڻ‌ڊاهيو",
+	"apex-action-unprotect": "تحفظ بدلايو",
+	"apex-view-create": "سرجيو",
+	"apex-view-edit": "ترميميو",
+	"apex-view-history": "سوانح ڏسو",
+	"apex-view-view": "پڙهو",
+	"apex-view-viewsource": "ڪوڊ ڏسو"
+}

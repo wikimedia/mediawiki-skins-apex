@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"apex-desc": "Moderne versie van Vector met een fris uiterlijk en veel verbeteringen op het gebied van gebruiksvriendelijkheid.",
+	"apex-action-addsection": "Onderwerp toevoegen",
+	"apex-action-delete": "Verwijderen",
+	"apex-action-move": "Hernoemen",
+	"apex-action-protect": "Beveiligen",
+	"apex-action-undelete": "Terugplaatsen",
+	"apex-action-unprotect": "Beveiliging wijzigen",
+	"apex-view-create": "Aanmaken",
+	"apex-view-edit": "Bewerken",
+	"apex-view-history": "Geschiedenis weergeven",
+	"apex-view-view": "Lezen",
+	"apex-view-viewsource": "Brontekst bekijken"
+}
