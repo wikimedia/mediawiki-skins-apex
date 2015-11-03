@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"apex-desc": "Versi moden Vector dengan rupa yang segar dan banyak peningkatan kebolehgunaan",
+	"apex-action-addsection": "Tambah topik",
+	"apex-action-delete": "Hapuskan",
+	"apex-action-move": "Alihkan",
+	"apex-action-protect": "Lindung",
+	"apex-action-undelete": "Nyahhapus",
+	"apex-action-unprotect": "Ubah perlindungan",
+	"apex-view-create": "Cipta",
+	"apex-view-edit": "Sunting",
+	"apex-view-history": "Lihat sejarah",
+	"apex-view-view": "Baca",
+	"apex-view-viewsource": "Lihat sumber"
+}
