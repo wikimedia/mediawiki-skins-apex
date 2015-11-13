@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"apex-action-addsection": "سرليک ورگډول",
+	"apex-action-delete": "ړنگول",
+	"apex-action-move": "لېږدول",
+	"apex-action-protect": "ژغورل",
+	"apex-action-undelete": "ناړنگول",
+	"apex-action-unprotect": "ژغورنه بدلول",
+	"apex-view-create": "جوړول",
+	"apex-view-edit": "سمول",
+	"apex-view-history": "پېښليک کتل",
+	"apex-view-view": "لوستل",
+	"apex-view-viewsource": "سرچينه کتل"
+}
