@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Liuxinyu970226",
-			"Cwlin0416"
+			"Cwlin0416",
+			"LNDDYL"
 		]
 	},
 	"apex-desc": "有著全新的外觀與多項可用性改善的 Vector 外觀現代版本",
@@ -11,7 +12,7 @@
 	"apex-action-move": "移動",
 	"apex-action-protect": "保護",
 	"apex-action-undelete": "取消刪除",
-	"apex-action-unprotect": "更改保護",
+	"apex-action-unprotect": "變更保護",
 	"apex-view-create": "建立",
 	"apex-view-edit": "編輯",
 	"apex-view-history": "檢視歷史",
