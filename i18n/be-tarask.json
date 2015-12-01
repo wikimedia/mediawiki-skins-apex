@@ -9,5 +9,6 @@
 	"apex-action-delete": "Выдаліць",
 	"apex-action-move": "Перанесьці",
 	"apex-action-protect": "Абараніць",
-	"apex-action-undelete": "Аднавіць"
+	"apex-action-undelete": "Аднавіць",
+	"apex-action-unprotect": "Зьмяніць абарону"
 }
