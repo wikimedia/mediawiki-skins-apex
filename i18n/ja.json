@@ -1,11 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sudachi"
+			"Sudachi",
+			"Otokoume"
 		]
 	},
+	"apex-action-addsection": "話題を追加",
 	"apex-action-delete": "削除",
+	"apex-action-move": "移動",
+	"apex-action-protect": "保護",
+	"apex-action-undelete": "復元",
+	"apex-action-unprotect": "保護を変更",
 	"apex-view-create": "作成",
 	"apex-view-edit": "編集",
-	"apex-view-history": "履歴を表示"
+	"apex-view-history": "履歴を表示",
+	"apex-view-view": "閲覧",
+	"apex-view-viewsource": "ソースを閲覧"
 }
