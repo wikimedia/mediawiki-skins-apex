@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"DCLXVI"
+		]
+	},
+	"apex-action-delete": "Изтриване",
+	"apex-action-move": "Преместване",
+	"apex-view-create": "Създаване",
+	"apex-view-edit": "Редактиране"
+}
