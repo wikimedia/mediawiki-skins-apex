@@ -1,11 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"DCLXVI"
+			"DCLXVI",
+			"Vodnokon4e"
 		]
 	},
+	"apex-action-addsection": "Добавяне на тема",
 	"apex-action-delete": "Изтриване",
 	"apex-action-move": "Преместване",
+	"apex-action-protect": "Защита",
+	"apex-action-undelete": "Възстановяване",
+	"apex-action-unprotect": "Промяна на защитата",
 	"apex-view-create": "Създаване",
-	"apex-view-edit": "Редактиране"
+	"apex-view-edit": "Редактиране",
+	"apex-view-history": "Показване на историята",
+	"apex-view-view": "Четене",
+	"apex-view-viewsource": "Преглед на кода"
 }
