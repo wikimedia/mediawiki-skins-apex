@@ -15,5 +15,9 @@
 
 	// Environment
 	"browser": true,
-	"jquery": true
+	"jquery": true,
+
+	"globals": {
+		"mw": false
+	}
 }

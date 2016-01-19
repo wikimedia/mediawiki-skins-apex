@@ -129,7 +129,7 @@ a:visited {
 }
 
 .apex-tabs a:hover {
-	text-shadow: 1px 1px 0px #f4fcff;
+	text-shadow: 1px 1px 0 #f4fcff;
 	filter: dropshadow(color=#f4fcff, offx=1, offy=1);
 	text-decoration: none;
 	background: #eff9ff; /* Old browsers */
@@ -371,7 +371,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 #toc a:hover {
 	background-color: #e0f4fd;
 	text-decoration: none;
-	text-shadow: 1px 1px 0px #f4fcff;
+	text-shadow: 1px 1px 0 #f4fcff;
 	filter: dropshadow(color=#f4fcff, offx=1, offy=1);
 }
 
@@ -411,7 +411,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 #mw-panel a:hover {
 	background-color: #e0f4fd;
 	text-decoration: none;
-	text-shadow: 1px 1px 0px #f4fcff;
+	text-shadow: 1px 1px 0 #f4fcff;
 	filter: dropshadow(color=#f4fcff, offx=1, offy=1);
 }
 
@@ -497,7 +497,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 #ca-watch a,
 #ca-unwatch a {
 	display: inline-block;
-	padding-right: 0;
 	padding-left: 26px;
 	padding-right: 0;
 	width: 0;
