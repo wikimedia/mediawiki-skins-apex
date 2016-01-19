@@ -88,7 +88,7 @@ class ApexTemplate extends BaseTemplate {
 					<?php if ( $this->data['undelete'] ): ?>
 					<div id="contentSub2"><?php $this->html( 'undelete' ) ?></div>
 					<?php endif; ?>
-					<?php if( $this->data['newtalk'] ): ?>
+					<?php if ( $this->data['newtalk'] ): ?>
 					<div class="usermessage"><?php $this->html( 'newtalk' )  ?></div>
 					<?php endif; ?>
 					<?php if ( $this->data['showjumplinks'] ): ?>
@@ -132,16 +132,16 @@ class ApexTemplate extends BaseTemplate {
 			<?php $this->renderPortals( $this->data['sidebar'] ); ?>
 		</div>
 		<div id="footer"<?php $this->html( 'userlangattributes' ) ?>>
-			<?php foreach( $this->getFooterLinks() as $category => $links ): ?>
+			<?php foreach ( $this->getFooterLinks() as $category => $links ): ?>
 				<ul id="footer-<?php echo $category ?>">
-					<?php foreach( $links as $link ): ?>
+					<?php foreach ( $links as $link ): ?>
 						<li id="footer-<?php echo $category ?>-<?php echo $link ?>">
 							<?php $this->html( $link ) ?>
 						</li>
 					<?php endforeach; ?>
 				</ul>
 			<?php endforeach; ?>
-			<?php $footericons = $this->getFooterIcons("icononly");
+			<?php $footericons = $this->getFooterIcons( "icononly" );
 			if ( count( $footericons ) > 0 ): ?>
 				<ul id="footer-icons" class="noprint">
 					<?php foreach ( $footericons as $blockName => $footerIcons ): ?>
@@ -182,7 +182,7 @@ class ApexTemplate extends BaseTemplate {
 			if ( $content === false ) {
 				continue;
 			}
-			switch( $name ) {
+			switch ( $name ) {
 				case 'SEARCH':
 					break;
 				case 'TOOLBOX':
@@ -218,7 +218,7 @@ class ApexTemplate extends BaseTemplate {
 		if ( is_array( $content ) ): ?>
 		<ul>
 <?php
-			foreach( $content as $key => $val ): ?>
+			foreach ( $content as $key => $val ): ?>
 			<?php echo $this->makeListItem( $key, $val ); ?>
 
 <?php
@@ -291,9 +291,11 @@ class ApexTemplate extends BaseTemplate {
 				break;
 				case 'VIEWS':
 ?>
-<div id="p-views" class="apex-tabs<?php if ( count( $this->data['view_urls'] ) == 0 ) { echo ' emptyPortlet'; } ?>">
-	<h5><?php $this->msg('views') ?></h5>
-	<ul<?php $this->html('userlangattributes') ?>>
+<div id="p-views" class="apex-tabs<?php if ( count( $this->data['view_urls'] ) == 0 ) {
+	echo ' emptyPortlet';
+} ?>">
+	<h5><?php $this->msg( 'views' ) ?></h5>
+	<ul<?php $this->html( 'userlangattributes' ) ?>>
 		<?php foreach ( $this->data['view_urls'] as $link ): ?>
 			<li<?php echo $link['attributes'] ?>><span><a href="<?php echo htmlspecialchars( $link['href'] ) ?>" <?php echo $link['key'] ?>><?php
 				// $link['text'] can be undefined - bug 27764
@@ -325,14 +327,14 @@ class ApexTemplate extends BaseTemplate {
 <div id="p-personal" class="<?php if ( count( $this->data['personal_urls'] ) == 0 ) echo ' emptyPortlet'; ?>">
 	<h5><?php $this->msg( 'personaltools' ) ?></h5>
 	<ul<?php $this->html( 'userlangattributes' ) ?>>
-		<?php foreach( $this->getPersonalTools() as $key => $item ): ?>
+		<?php foreach ( $this->getPersonalTools() as $key => $item ): ?>
 			<?php if ( $key === 'userpage' ): ?>
 			<?php echo $this->makeListItem( $key, $item ); ?>
 			<?php endif; ?>
 		<?php endforeach; ?>
 	</ul>
 	<ul<?php $this->html( 'userlangattributes' ) ?> class="apex-menu-popup">
-		<?php foreach( $this->getPersonalTools() as $key => $item ): ?>
+		<?php foreach ( $this->getPersonalTools() as $key => $item ): ?>
 			<?php if ( $key !== 'userpage' ): ?>
 			<?php echo $this->makeListItem( $key, $item ); ?>
 			<?php endif; ?>

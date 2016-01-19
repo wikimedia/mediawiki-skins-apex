@@ -42,7 +42,7 @@ class SkinApex extends SkinTemplate {
 	 * fixes bug 22916
 	 * @param $out OutputPage object
 	 */
-	function setupSkinUserCss( OutputPage $out ){
+	function setupSkinUserCss( OutputPage $out ) {
 		parent::setupSkinUserCss( $out );
 		$out->addModuleStyles( array(
 			'mediawiki.skinning.interface',
