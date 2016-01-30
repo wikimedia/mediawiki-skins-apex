@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Marwan Mohamad"
+			"Marwan Mohamad",
+			"Zhoelyakin"
 		]
 	},
 	"apex-desc": "Versi modern lo Vektor wawu bibilohu u lebe motilango wawu ngohuntuwa pilo'opiyohu hunaliyo",
@@ -9,7 +10,7 @@
 	"apex-action-delete": "Luluta",
 	"apex-action-move": "Pindawa",
 	"apex-action-protect": "Dahawa",
-	"apex-action-undelete": "Balaliya moluluto",
+	"apex-action-undelete": "Bataliya moluluto",
 	"apex-action-unprotect": "Ubawa dudaha",
 	"apex-view-create": "Mohutu",
 	"apex-view-edit": "Monguba",
