@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"HalanTul"
+			"HalanTul",
+			"Ай-Куо"
 		]
 	},
+	"apex-desc": "аныгы Монобук",
 	"apex-action-addsection": "Тиэмэ эбии",
 	"apex-action-delete": "Сот",
 	"apex-action-move": "Аатын уларыт",
