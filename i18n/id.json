@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mirws"
+			"Mirws",
+			"Kenrick95"
 		]
 	},
-	"apex-action-addsection": "Tambah topic",
+	"apex-action-addsection": "Tambah topik",
 	"apex-action-delete": "Hapus",
 	"apex-action-move": "Pindahkan",
 	"apex-action-protect": "Lindungi",

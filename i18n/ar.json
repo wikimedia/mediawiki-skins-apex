@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Maroen1990"
+		]
+	},
+	"apex-action-addsection": "أضف موضوعا",
+	"apex-action-delete": "احذف",
+	"apex-action-move": "انقل",
+	"apex-action-protect": "حماية",
+	"apex-action-undelete": "ألغ الحذف",
+	"apex-action-unprotect": "غير الحماية",
+	"apex-view-create": "أنشئ",
+	"apex-view-edit": "تعديل",
+	"apex-view-history": "اعرض التاريخ",
+	"apex-view-view": "اقرأ",
+	"apex-view-viewsource": "اعرض المصدر"
+}
