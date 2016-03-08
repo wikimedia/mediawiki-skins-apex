@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zygimantus"
+		]
+	},
+	"apex-action-addsection": "Pridėti temą",
+	"apex-action-move": "Perkelti",
+	"apex-action-protect": "Užrakinti",
+	"apex-action-undelete": "Atkurti",
+	"apex-action-unprotect": "Keisti apsaugą",
+	"apex-view-create": "Kurti",
+	"apex-view-edit": "Keisti",
+	"apex-view-history": "Istorija",
+	"apex-view-view": "Skaityti"
+}

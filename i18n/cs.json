@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Clon"
+		]
+	},
+	"apex-action-addsection": "Přidat téma",
+	"apex-action-delete": "Smazat",
+	"apex-action-move": "Přesunout",
+	"apex-action-protect": "Zamknout",
+	"apex-action-undelete": "Obnovit",
+	"apex-action-unprotect": "Změnit zámek",
+	"apex-view-create": "Založit",
+	"apex-view-edit": "Upravit",
+	"apex-view-history": "Zobrazit historii",
+	"apex-view-view": "Číst",
+	"apex-view-viewsource": "Zobrazit zdroj"
+}
