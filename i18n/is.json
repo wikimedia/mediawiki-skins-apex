@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sveinn í Felli"
+		]
+	},
+	"skinname-apex": "Apex",
+	"apex-desc": "Nútímaútgáfa af Vector með fersku útliti og mörgum endurbótum á notagildi",
+	"apex.css": "/* Allt CSS sem sett er hér mun  hafa áhrif á alla notendur Apex-skinnsins. */",
+	"apex.js": "/* Allt JavaScript sem sett er hér mun hafa áhrif á notendur Apex-skinnsins. */",
+	"apex-action-addsection": "Bæta við umræðu",
+	"apex-action-delete": "Eyða",
+	"apex-action-move": "Færa",
+	"apex-action-protect": "Vernda",
+	"apex-action-undelete": "Hætta við eyðingu",
+	"apex-action-unprotect": "Breyta verndunarstigi",
+	"apex-view-create": "Búa til",
+	"apex-view-edit": "Breyta",
+	"apex-view-history": "Breytingaskrá",
+	"apex-view-view": "Lesa",
+	"apex-view-viewsource": "Skoða frumkóða"
+}
