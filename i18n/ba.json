@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sagan"
+		]
+	},
+	"apex-desc": "Хәҙерге заман  «Векторлы» күренеше, биҙәлеш яүыртылған һәм яңы мөмкинлектәр файҙаланылған",
+	"apex-action-addsection": "Тема өҫтәргә",
+	"apex-action-delete": "Юйырға",
+	"apex-action-move": "Күсерергә",
+	"apex-action-protect": "Һаҡларға",
+	"apex-action-undelete": "Юйылғанды ҡайтарырға",
+	"apex-action-unprotect": "Һаҡлауҙы үҙгәртергә",
+	"apex-view-create": "Яһау",
+	"apex-view-edit": "Үҙгәртергә",
+	"apex-view-history": "Тарихты ҡарау"
+}
