@@ -2,13 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Zawthet",
-			"Akhin57"
+			"Akhin57",
+			"Ninjastrikers"
 		]
 	},
 	"apex-action-addsection": "အကြောင်းအရာအသစ် ထပ်ထည့်ရန်",
 	"apex-action-delete": "ဖျက်​ပါ​",
 	"apex-action-move": "ရွှေ့ရန်",
-	"apex-action-protect": "ထိန်း​သိမ်း​ပါ​",
+	"apex-action-protect": "ကာကွယ်ပါ",
 	"apex-action-undelete": "မဖျက်တော့ရန်",
 	"apex-action-unprotect": "ပြောင်းလဲမှုများ ကာကွယ်ရန်",
 	"apex-view-create": "စတင်ရေးသားရန်",
