@@ -68,4 +68,4 @@
 		mw.skin = new mw.ApexSkin();
 	} );
 
-}( jQuery, mw ) );
+}( jQuery, mediaWiki ) );

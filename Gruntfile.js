@@ -15,8 +15,8 @@ module.exports = function ( grunt ) {
 				jshintrc: true
 			},
 			all: [
-				'*.js',
-				'resources/*.js'
+				'**/*.js',
+				'!node_modules/**'
 			]
 		},
 		jscs: {
