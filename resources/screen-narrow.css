@@ -1,11 +1,13 @@
 #p-cactions {
 	margin-left: -0.75em;
 }
+
 #p-cactions h5 span {
 	display: inline-block;
 	width: 0;
 	overflow: hidden;
 }
+
 #pt-userpage a {
 	width: 0;
 	display: inline-block;
@@ -13,13 +15,14 @@
 	background-position: right center;
 	opacity: 0.75;
 }
+
 #p-personal:hover #pt-userpage a {
 	opacity: 1;
 }
 
 #ca-talk a {
 	display: inline-block;
-	background-image: url(images/icons/talk.png);
+	background-image: url( images/icons/talk.png );
 	background-position: center center;
 	background-repeat: no-repeat;
 	padding-left: 2.5em;
@@ -28,6 +31,7 @@
 	overflow: hidden;
 	opacity: 0.75;
 }
+
 #ca-talk a:hover {
 	opacity: 1;
 }
