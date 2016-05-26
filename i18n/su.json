@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kandar"
+		]
+	},
+	"apex-desc": "Vector vérsi modérn anu leuwih seger kalawan fungsi-fungsi tambahan",
+	"apex-action-addsection": "Tambah jejer",
+	"apex-action-delete": "Hapus",
+	"apex-action-move": "Pindahkeun",
+	"apex-action-protect": "Konci",
+	"apex-action-undelete": "Bolaykeun ngahapus",
+	"apex-view-create": "Jieun",
+	"apex-view-edit": "Ropéa",
+	"apex-view-history": "Témbongkeun jujutan",
+	"apex-view-view": "Baca",
+	"apex-view-viewsource": "Témbongkeun sumber"
+}
