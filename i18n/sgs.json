@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hugo.arg"
+		]
+	},
+	"apex-action-addsection": "Pridietė tema",
+	"apex-action-delete": "Trintė",
+	"apex-action-move": "Parvadintė",
+	"apex-action-protect": "Apsergietė",
+	"apex-action-undelete": "Atstatītė",
+	"apex-action-unprotect": "Keistė apsarga",
+	"apex-view-create": "Padėrbtė",
+	"apex-view-edit": "Taisītė",
+	"apex-view-history": "Istuorėjė",
+	"apex-view-view": "Skaitītė",
+	"apex-view-viewsource": "Veizietė kuoda"
+}
