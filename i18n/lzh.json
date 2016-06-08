@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"SolidBlock"
+		]
+	},
+	"apex-action-addsection": "增",
+	"apex-action-delete": "刪",
+	"apex-action-move": "遷",
+	"apex-action-protect": "緘",
+	"apex-action-undelete": "回",
+	"apex-action-unprotect": "變保",
+	"apex-view-create": "創",
+	"apex-view-edit": "纂",
+	"apex-view-history": "覽史",
+	"apex-view-view": "閱",
+	"apex-view-viewsource": "閱碼"
+}
