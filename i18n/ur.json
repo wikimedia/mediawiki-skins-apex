@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Obaid Raza"
+		]
+	},
+	"apex-desc": "ویکٹر کا جدید نسخہ (ورژن) مع شائستہ صورت اور کئی افادیت میں بہتریاں",
+	"apex-action-addsection": "موضوع شامل کریں",
+	"apex-action-delete": "حذف",
+	"apex-action-move": "منتقل",
+	"apex-action-protect": "محفوظ",
+	"apex-action-undelete": "بحال",
+	"apex-action-unprotect": "تحفظ میں تبدیلی",
+	"apex-view-create": "تخلیق",
+	"apex-view-edit": "ترمیم",
+	"apex-view-history": "تاریخچہ دیکھیے",
+	"apex-view-view": "پڑھیے",
+	"apex-view-viewsource": "مسودہ دیکھیے"
+}
