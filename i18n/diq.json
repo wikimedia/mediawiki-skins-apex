@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gorizon"
+			"Gorizon",
+			"Kumkumuk"
 		]
 	},
+	"apex-desc": "Asayışo de newe be versiyonê Vektoriyo modern ra û weşkerdışê ke şenê bıgureniyê",
 	"apex-action-addsection": "Mewzu vıraze",
 	"apex-action-delete": "Bestere",
 	"apex-action-move": "Bere",

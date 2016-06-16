@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ebrahimi-amir"
+			"Ebrahimi-amir",
+			"Alp Er Tunqa"
 		]
 	},
-	"apex-action-addsection": "قوْنو آرتیر",
+	"apex-action-addsection": "موضوع آرتیر",
 	"apex-action-delete": "سیل",
 	"apex-action-move": "داشی",
 	"apex-action-protect": "قوْرو",
