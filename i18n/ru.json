@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Okras",
-			"SmartNart12"
+			"SmartNart12",
+			"Kaganer"
 		]
 	},
 	"apex-desc": "Современная версия темы оформления «Векторное» с обновлённым оформлением и многими улучшениями в юзабилити",
@@ -16,5 +17,5 @@
 	"apex-view-edit": "Править",
 	"apex-view-history": "Посмотреть историю",
 	"apex-view-view": "Читать",
-	"apex-view-viewsource": "Просмотр разметки"
+	"apex-view-viewsource": "Просмотр кода"
 }
