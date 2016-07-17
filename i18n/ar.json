@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Maroen1990"
+			"Maroen1990",
+			"علاء"
 		]
 	},
-	"apex-action-addsection": "أضف موضوعا",
+	"apex-action-addsection": "أضف موضوعاً",
 	"apex-action-delete": "احذف",
 	"apex-action-move": "انقل",
 	"apex-action-protect": "حماية",
