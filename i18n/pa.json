@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tow"
+		]
+	},
+	"apex-action-addsection": "ਵਿਸ਼ਾ ਜੋੜੋ",
+	"apex-action-delete": "ਮਿਟਾਓ",
+	"apex-action-move": "ਹਿਲਾਓ",
+	"apex-action-protect": "ਸੁਰੱਖਿਅਤ ਕਰੋ",
+	"apex-action-undelete": "ਮਿਟਾਉਣਾ-ਵਾਪਸ",
+	"apex-action-unprotect": "ਸੁਰੱਖਿਆ ਬਦਲੋ",
+	"apex-view-create": "ਬਣਾਓ",
+	"apex-view-edit": "ਸੋਧੋ",
+	"apex-view-history": "ਅਤੀਤ ਵੇਖੋ",
+	"apex-view-view": "ਪੜ੍ਹੋ",
+	"apex-view-viewsource": "ਸਰੋਤ ਵੇਖੋ"
+}
