@@ -250,11 +250,11 @@ a:visited {
 
 #mw-panel {
 	left: 0;
-	border-left: none;
+	border-left: 0;
 }
 #toc {
 	right: 0;
-	border-right: none;
+	border-right: 0;
 }
 #p-navigation {
 	margin-top: 0.5em;
@@ -502,7 +502,7 @@ a:visited {
 }
 #searchButton {
 	background-color: transparent;
-	border: none;
+	border: 0;
 	font-size: 1.25em;
 	opacity: 0.75;
 	cursor: pointer;
