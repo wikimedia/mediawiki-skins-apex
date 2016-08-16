@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"DCLXVI",
-			"Vodnokon4e"
+			"Vodnokon4e",
+			"StanProg"
 		]
 	},
+	"apex-desc": "Модерна версия на Vector с обновен дизайн и много подобрения на ползваемостта",
 	"apex-action-addsection": "Добавяне на тема",
 	"apex-action-delete": "Изтриване",
 	"apex-action-move": "Преместване",
