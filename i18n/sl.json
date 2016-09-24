@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334"
+		]
+	},
+	"apex-desc": "Sodobna različica Vector s svežim videzom in mnogimi izboljšavami uporabnosti",
+	"apex-action-addsection": "Dodaj temo",
+	"apex-action-delete": "Izbriši",
+	"apex-action-move": "Prestavi",
+	"apex-action-protect": "Zaščiti",
+	"apex-action-undelete": "Obnovi",
+	"apex-action-unprotect": "Spremeni zaščito",
+	"apex-view-create": "Ustvari",
+	"apex-view-edit": "Uredi",
+	"apex-view-history": "Poglej zgodovino",
+	"apex-view-view": "Preberi",
+	"apex-view-viewsource": "Izvorno besedilo"
+}
