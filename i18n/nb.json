@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"apex-desc": "Moderne versjon av Vector med friskt utseende og mange brukervennlighetsforbedringer",
+	"apex-action-addsection": "Legg til emne",
+	"apex-action-delete": "Slett",
+	"apex-action-move": "Flytt",
+	"apex-action-protect": "Beskytt",
+	"apex-action-undelete": "Gjenopprett",
+	"apex-action-unprotect": "Endre beskyttelse",
+	"apex-view-create": "Opprett",
+	"apex-view-edit": "Rediger",
+	"apex-view-history": "Vis historikk",
+	"apex-view-view": "Les",
+	"apex-view-viewsource": "Vis kilde"
+}
