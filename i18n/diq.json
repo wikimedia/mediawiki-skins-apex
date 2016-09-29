@@ -3,7 +3,8 @@
 		"authors": [
 			"Gorizon",
 			"Kumkumuk",
-			"Mirzali"
+			"Mirzali",
+			"Asmen"
 		]
 	},
 	"apex-desc": "Asayışo de newe be versiyonê Vektoriyo modern ra û weşkerdışê ke şenê bıgureniyê",
@@ -16,6 +17,6 @@
 	"apex-view-create": "Bıvıraze",
 	"apex-view-edit": "Bıvurne",
 	"apex-view-history": "Ravêrda bıvin",
-	"apex-view-view": "Bıwenë",
+	"apex-view-view": "Bıwane",
 	"apex-view-viewsource": "Çımey bıvêne"
 }

@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aftabuzzaman"
+			"Aftabuzzaman",
+			"আজিজ"
 		]
 	},
+	"apex-desc": "নতুন চেহারায় ভিক্টর আধুনিক সংস্করণ এবং আরো অনেক ব্যবহারযোগ্যতার উন্নতি",
 	"apex-action-addsection": "প্রসঙ্গ যোগ করুন",
 	"apex-action-delete": "অপসারণ",
 	"apex-action-move": "স্থানান্তর",
