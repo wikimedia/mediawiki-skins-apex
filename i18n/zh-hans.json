@@ -6,6 +6,7 @@
 	},
 	"apex-desc": "提供清新的外观和很多可用性改进的现代版Vector",
 	"apex.css": "/* 这里放置的CSS将影响使用Apex皮肤的用户 */",
+	"apex.js": "/* 这里的任何JavaScript将为使用Apex皮肤的用户加载 */",
 	"apex-action-addsection": "添加话题",
 	"apex-action-delete": "删除",
 	"apex-action-move": "移动",
