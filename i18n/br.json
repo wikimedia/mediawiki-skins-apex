@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup"
+		]
+	},
+	"apex-action-delete": "Diverkañ",
+	"apex-action-move": "Dilec'hiañ",
+	"apex-action-protect": "Gwareziñ",
+	"apex-action-undelete": "Diziverkañ",
+	"apex-action-unprotect": "Cheñch gwarez",
+	"apex-view-create": "Krouiñ",
+	"apex-view-edit": "Kemmañ",
+	"apex-view-history": "Gwelet an istor",
+	"apex-view-view": "Lenn",
+	"apex-view-viewsource": "Gwelet an tarzh"
+}
