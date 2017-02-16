@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jagwar"
+		]
+	},
+	"apex-desc": "Versiona maoderina an'i Vector fa manana endrika tanora kokoa sady misy fihatsarana ny fampiasana maromaro",
+	"apex-action-addsection": "Hanampy lohahevitra",
+	"apex-action-delete": "Hamafa",
+	"apex-action-move": "Hanolo anarana",
+	"apex-action-protect": "Hiaro",
+	"apex-action-undelete": "Hamerina",
+	"apex-action-unprotect": "Hanova ny fiarovana",
+	"apex-view-create": "Foronina",
+	"apex-view-edit": "Hanova",
+	"apex-view-history": "Hijery ny tantara",
+	"apex-view-view": "Hamaky",
+	"apex-view-viewsource": "Hijery fango"
+}
