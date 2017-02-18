@@ -498,7 +498,7 @@ a:visited {
 }
 #searchInput:focus {
 	width: 12em;
-	outline: none;
+	outline: 0;
 }
 #searchButton {
 	background-color: transparent;
