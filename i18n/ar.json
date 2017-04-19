@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Maroen1990",
-			"علاء"
+			"علاء",
+			"زكريا"
 		]
 	},
 	"apex-action-addsection": "أضف موضوعاً",
@@ -13,7 +14,7 @@
 	"apex-action-unprotect": "غير الحماية",
 	"apex-view-create": "أنشئ",
 	"apex-view-edit": "تعديل",
-	"apex-view-history": "اعرض التاريخ",
+	"apex-view-history": "التاريخ",
 	"apex-view-view": "اقرأ",
 	"apex-view-viewsource": "اعرض المصدر"
 }
