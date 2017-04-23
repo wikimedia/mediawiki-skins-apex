@@ -1,16 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"TheEduGobi"
+			"TheEduGobi",
+			"Felipe L. Ewald"
 		]
 	},
-	"apex-desc": "Versão moderna do Vector, com um visual atualizado e várias melhorias na usabilidade.",
+	"skinname-apex": "Apex",
+	"apex-desc": "Versão moderna do Vector com um visual limpo e várias melhorias de usabilidade",
+	"apex.css": "/* CSS colocado aqui irá afetar usuários do tema Apex */",
+	"apex.js": "/* Qualquer JavaScript aqui colocado será carregado para usuários usando o tema Apex */",
 	"apex-action-addsection": "Adicionar tópico",
-	"apex-action-delete": "Apagar",
+	"apex-action-delete": "Excluir",
 	"apex-action-move": "Mover",
 	"apex-action-protect": "Proteger",
 	"apex-action-undelete": "Restaurar",
-	"apex-action-unprotect": "Modificar proteção",
+	"apex-action-unprotect": "Alterar a proteção",
 	"apex-view-create": "Criar",
 	"apex-view-edit": "Editar",
 	"apex-view-history": "Ver histórico",
