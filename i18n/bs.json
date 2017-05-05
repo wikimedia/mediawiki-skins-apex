@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Srdjan m"
+		]
+	},
+	"apex-action-addsection": "Dodaj temu",
+	"apex-action-delete": "Obriši",
+	"apex-action-move": "Premjesti",
+	"apex-action-protect": "Zaštiti",
+	"apex-action-undelete": "Vrati",
+	"apex-action-unprotect": "Promijeni zaštitu",
+	"apex-view-create": "Napravi",
+	"apex-view-edit": "Uredi",
+	"apex-view-history": "Historija",
+	"apex-view-view": "Čitaj",
+	"apex-view-viewsource": "Pogledaj izvor"
+}
