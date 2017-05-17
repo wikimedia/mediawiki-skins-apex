@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"apex-desc": "Vèrsi modhèren Vèktor kanthi praupan seger lan manéka owahan anyar sing migunani",
+	"apex-action-addsection": "Tambah rembug",
+	"apex-action-delete": "Busak",
+	"apex-action-move": "Lih",
+	"apex-action-protect": "Reksa",
+	"apex-action-undelete": "Wurung busak",
+	"apex-action-unprotect": "Owah rereksan",
+	"apex-view-create": "Gawé",
+	"apex-view-edit": "Besut",
+	"apex-view-history": "Deleng sujarah",
+	"apex-view-view": "Waca",
+	"apex-view-viewsource": "Deleng sumber"
+}
