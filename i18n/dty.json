@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nirajan pant"
+		]
+	},
+	"apex-action-addsection": "शीर्षक थपऽ",
+	"apex-action-delete": "मेटऽ",
+	"apex-action-move": "सारऽ",
+	"apex-action-protect": "सुरक्षा अरऽ",
+	"apex-action-undelete": "मेट्याको रद्द अरऽ",
+	"apex-action-unprotect": "सुरक्षा बदेलऽ",
+	"apex-view-create": "बनाऽ",
+	"apex-view-edit": "सम्पादन",
+	"apex-view-history": "इतिहास तकऽ",
+	"apex-view-view": "पढ़ऽ",
+	"apex-view-viewsource": "स्रोत हेरऽ"
+}
