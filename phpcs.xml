@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ruleset>
-	<rule ref="vendor/mediawiki/mediawiki-codesniffer/MediaWiki">
+	<rule ref="./vendor/mediawiki/mediawiki-codesniffer/MediaWiki">
 		<!-- Disable failing rules -->
 		<exclude name="Generic.ControlStructures.InlineControlStructure.NotAllowed"/>
 		<exclude name="Generic.Files.LineLength.TooLong"/>
@@ -10,10 +10,14 @@
 		<exclude name="PSR2.Classes.PropertyDeclaration.ScopeMissing"/>
 		<exclude name="PSR2.Classes.PropertyDeclaration.VarUsed"/>
 		<exclude name="Squiz.WhiteSpace.ScopeClosingBrace.Indent"/>
-
+		<exclude name="MediaWiki.ControlStructures.IfElseStructure.SpaceAfterElse"/>
+		<exclude name="MediaWiki.Commenting.FunctionComment.MissingParamTag"/>
+		<exclude name="MediaWiki.Commenting.FunctionComment.MissingParamName"/>
+		<exclude name="MediaWiki.WhiteSpace.SpaceBeforeSingleLineComment.NewLineComment"/>
 	</rule>
 	<file>.</file>
 	<arg name="extensions" value="php,php5,inc"/>
-	<arg name="encoding" value="utf8"/>
+	<arg name="encoding" value="UTF-8"/>
 	<exclude-pattern>vendor</exclude-pattern>
+	<exclude-pattern>node_modules</exclude-pattern>
 </ruleset>

@@ -6,7 +6,7 @@
  */
 class SkinApex extends SkinTemplate {
 
-	protected static $bodyClasses = array( 'apex-animateLayout' );
+	protected static $bodyClasses = [ 'apex-animateLayout' ];
 
 	var $skinname = 'apex', $stylename = 'apex',
 		$template = 'ApexTemplate', $useHeadElement = true;
@@ -44,10 +44,10 @@ class SkinApex extends SkinTemplate {
 	 */
 	function setupSkinUserCss( OutputPage $out ) {
 		parent::setupSkinUserCss( $out );
-		$out->addModuleStyles( array(
+		$out->addModuleStyles( [
 			'mediawiki.skinning.interface',
 			'skins.apex'
-		) );
+		] );
 	}
 
 	/**

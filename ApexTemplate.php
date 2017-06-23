@@ -117,13 +117,13 @@ class ApexTemplate extends BaseTemplate {
 		</div>
 		<div id="mw-head" class="noprint">
 			<div id="p-logo"><a style="background-image: url(<?php $this->text( 'logopath-1x' ) ?>);" href="<?php echo htmlspecialchars( $this->data['nav_urls']['mainpage']['href'] ) ?>" <?php echo Xml::expandAttributes( Linker::tooltipAndAccesskeyAttribs( 'p-logo' ) ) ?>><span><?php echo $wgSitename ?></span></a></div>
-			<?php $this->renderNavigation( array( 'SEARCH', 'PERSONAL' ) ); ?>
+			<?php $this->renderNavigation( [ 'SEARCH', 'PERSONAL' ] ); ?>
 			<div class="apex-nav">
 				<div class="apex-nav-primary">
-					<?php $this->renderNavigation( array( 'NAMESPACES', 'VARIANTS' ) ); ?>
+					<?php $this->renderNavigation( [ 'NAMESPACES', 'VARIANTS' ] ); ?>
 				</div>
 				<div class="apex-nav-secondary">
-					<?php $this->renderNavigation( array( 'VIEWS', 'ACTIONS' ) ); ?>
+					<?php $this->renderNavigation( [ 'VIEWS', 'ACTIONS' ] ); ?>
 				</div>
 			</div>
 		</div>
@@ -224,7 +224,7 @@ class ApexTemplate extends BaseTemplate {
 <?php
 			endforeach;
 			if ( $hook !== null ) {
-				Hooks::run( $hook, array( &$this, true ) );
+				Hooks::run( $hook, [ &$this, true ] );
 			}
 			?>
 		</ul>
@@ -248,7 +248,7 @@ class ApexTemplate extends BaseTemplate {
 		// If only one element was given, wrap it in an array, allowing more
 		// flexible arguments
 		if ( !is_array( $elements ) ) {
-			$elements = array( $elements );
+			$elements = [ $elements ];
 		// If there's a series of elements, reverse them when in RTL mode
 		} elseif ( $this->data['rtl'] ) {
 			$elements = array_reverse( $elements );
@@ -349,8 +349,8 @@ class ApexTemplate extends BaseTemplate {
 	<h5<?php $this->html( 'userlangattributes' ) ?>><label for="searchInput"><?php $this->msg( 'search' ) ?></label></h5>
 	<form action="<?php $this->text( 'wgScript' ) ?>" id="searchform">
 		<div id="simpleSearch">
-			<?php echo $this->makeSearchInput( array( 'id' => 'searchInput', 'type' => 'text' ) ); ?>
-			<?php echo $this->makeSearchButton( 'image', array( 'id' => 'searchButton', 'src' => $this->getSkin()->getSkinStylePath( 'images/icons/search.png' ), 'width' => '12', 'height' => '13' ) ); ?>
+			<?php echo $this->makeSearchInput( [ 'id' => 'searchInput', 'type' => 'text' ] ); ?>
+			<?php echo $this->makeSearchButton( 'image', [ 'id' => 'searchButton', 'src' => $this->getSkin()->getSkinStylePath( 'images/icons/search.png' ), 'width' => '12', 'height' => '13' ] ); ?>
 			<input type='hidden' name="title" value="<?php $this->text( 'searchtitle' ) ?>"/>
 		</div>
 	</form>
