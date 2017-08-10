@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kaszeba"
+		]
+	},
+	"apex-action-addsection": "Dodôj témã",
+	"apex-action-delete": "Rëmôj",
+	"apex-action-move": "Przeniesë",
+	"apex-action-protect": "Zazychrëjë",
+	"apex-action-undelete": "Doprowadzë nazôd",
+	"apex-action-unprotect": "Zmieni zazychrowanié",
+	"apex-view-create": "Ùsadzë",
+	"apex-view-edit": "Editëjë",
+	"apex-view-history": "Historëjô lopka",
+	"apex-view-view": "Czëtôj",
+	"apex-view-viewsource": "Wëskrzëni zdrój"
+}
