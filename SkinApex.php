@@ -34,7 +34,7 @@ class SkinApex extends SkinTemplate {
 				'.gradient { filter: none; }</style><![endif]-->'
 		);
 
-		$out->addModuleScripts( 'skins.apex' );
+		$out->addModules( 'skins.apex' );
 	}
 
 	/**
@@ -46,7 +46,7 @@ class SkinApex extends SkinTemplate {
 		parent::setupSkinUserCss( $out );
 		$out->addModuleStyles( [
 			'mediawiki.skinning.interface',
-			'skins.apex'
+			'skins.apex.styles'
 		] );
 	}
 

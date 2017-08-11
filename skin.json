@@ -26,6 +26,10 @@
 	"ResourceModules": {
 		"skins.apex": {
 			"position": "bottom",
+			"scripts": "resources/apex.js"
+		},
+		"skins.apex.styles": {
+			"position": "bottom",
 			"styles": {
 				"resources/screen.css": {
 					"media": "screen"
@@ -36,8 +40,7 @@
 				"resources/screen-wide.css": {
 					"media": "screen and (min-width: 982px)"
 				}
-			},
-			"scripts": "resources/apex.js"
+			}
 		}
 	},
 	"ResourceFileModulePaths": {
