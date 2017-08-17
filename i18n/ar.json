@@ -3,9 +3,11 @@
 		"authors": [
 			"Maroen1990",
 			"علاء",
-			"زكريا"
+			"زكريا",
+			"ديفيد"
 		]
 	},
+	"apex-desc": "النسخة الحديثة من فكتور بمظهر جديدة والعديد من تحسينات الاستخدام",
 	"apex-action-addsection": "أضف موضوعاً",
 	"apex-action-delete": "احذف",
 	"apex-action-move": "انقل",
