@@ -3,6 +3,6 @@
 	"rules": {
 		"selector-no-id": null,
 		"no-descending-specificity": null,
-		"declaration-block-no-duplicate-properties": null,
+		"declaration-block-no-duplicate-properties": null
 	}
 }
