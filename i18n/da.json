@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joedalton"
+		]
+	},
+	"apex-desc": "Moderne version af Vector med et frisk udseende og mange brugervenlige forbedringer",
+	"apex-action-addsection": "Tilføj emne",
+	"apex-action-delete": "Slet",
+	"apex-action-move": "Flyt",
+	"apex-action-protect": "Beskyt",
+	"apex-action-undelete": "Gendan",
+	"apex-action-unprotect": "Ændr beskyttelse",
+	"apex-view-create": "Opret",
+	"apex-view-edit": "Rediger",
+	"apex-view-history": "Se historik",
+	"apex-view-view": "Læs",
+	"apex-view-viewsource": "Vis kilde"
+}
