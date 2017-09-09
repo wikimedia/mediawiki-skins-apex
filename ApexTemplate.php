@@ -300,7 +300,7 @@ class ApexTemplate extends BaseTemplate {
 			<li<?php echo $link['attributes'] ?>><span><a href="<?php echo htmlspecialchars( $link['href'] ) ?>" <?php echo $link['key'] ?>><?php
 				// $link['text'] can be undefined - bug 27764
 				if ( array_key_exists( 'text', $link ) ) {
-					echo array_key_exists( 'img', $link ) ?  '<img src="' . $link['img'] . '" alt="' . $link['text'] . '" />' : htmlspecialchars( $link['text'] );
+					echo array_key_exists( 'img', $link ) ? '<img src="' . $link['img'] . '" alt="' . $link['text'] . '" />' : htmlspecialchars( $link['text'] );
 				}
 				?></a></span></li>
 		<?php endforeach; ?>
