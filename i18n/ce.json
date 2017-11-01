@@ -4,5 +4,15 @@
 			"Умар"
 		]
 	},
-	"apex-action-unprotect": "Ларъяр хийцар"
+	"apex-action-addsection": "Тема тӀетоха",
+	"apex-action-delete": "ДӀаяккха",
+	"apex-action-move": "ЦӀе хийца",
+	"apex-action-protect": "Ларъян",
+	"apex-action-undelete": "Юхадаккха дӀаяккхар",
+	"apex-action-unprotect": "Ларъяр хийцар",
+	"apex-view-create": "Кхолла",
+	"apex-view-edit": "Нисъе",
+	"apex-view-history": "Исторега хьажа",
+	"apex-view-view": "Ешар",
+	"apex-view-viewsource": "Коде хьажар"
 }
