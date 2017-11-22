@@ -4,7 +4,10 @@
 			"Jon Harald Søby"
 		]
 	},
+	"skinname-apex": "Apex",
 	"apex-desc": "Moderne versjon av Vector med friskt utseende og mange brukervennlighetsforbedringer",
+	"apex.css": "/* CSS i denne fila vil gjelde alle som bruker drakta Apex */",
+	"apex.js": "/* Javascript i denne fila vil gjelde for brukere av drakta Apex */",
 	"apex-action-addsection": "Legg til emne",
 	"apex-action-delete": "Slett",
 	"apex-action-move": "Flytt",
