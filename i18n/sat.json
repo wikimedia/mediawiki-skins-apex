@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Manik Soren"
+		]
+	},
+	"apex-action-delete": "ᱜᱮᱫ ᱜᱤᱰᱤ",
+	"apex-action-move": "ᱚᱪᱚᱜ",
+	"apex-view-create": "ᱛᱮᱭᱟᱨ",
+	"apex-view-edit": "ᱥᱟᱯᱲᱟᱣ",
+	"apex-view-history": "ᱱᱟᱜᱟᱢ ᱧᱮᱞᱢᱮ",
+	"apex-view-view": "ᱯᱟᱲᱦᱟᱣᱢᱮ",
+	"apex-view-viewsource": "ᱯᱷᱮᱰᱟᱛ ᱦᱚᱨ ᱧᱮᱞᱢᱮ"
+}
