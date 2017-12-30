@@ -2,15 +2,12 @@
 <ruleset>
 	<rule ref="./vendor/mediawiki/mediawiki-codesniffer/MediaWiki">
 		<!-- Disable failing rules -->
-		<exclude name="Generic.ControlStructures.InlineControlStructure.NotAllowed"/>
 		<exclude name="Generic.Files.LineLength.TooLong"/>
-		<exclude name="Generic.Formatting.DisallowMultipleStatements.SameLine"/>
 		<exclude name="MediaWiki.AlternativeSyntax.AlternativeSyntax.AlternativeSyntax"/>
-		<exclude name="MediaWiki.ControlStructures.IfElseStructure.SpaceBeforeElse"/>
 		<exclude name="PSR2.Classes.PropertyDeclaration.ScopeMissing"/>
-		<exclude name="PSR2.Classes.PropertyDeclaration.VarUsed"/>
-		<exclude name="Squiz.WhiteSpace.ScopeClosingBrace.Indent"/>
-		<exclude name="MediaWiki.ControlStructures.IfElseStructure.SpaceAfterElse"/>
+		<exclude name="PSR2.Classes.PropertyDeclaration.VarUsed" />
+		<exclude name="Squiz.Scope.MemberVarScope.Missing" />
+		<exclude name="Squiz.Scope.MethodScope.Missing" />
 		<exclude name="MediaWiki.Commenting.FunctionComment.MissingParamTag"/>
 		<exclude name="MediaWiki.Commenting.FunctionComment.MissingParamName"/>
 		<exclude name="MediaWiki.WhiteSpace.SpaceBeforeSingleLineComment.NewLineComment"/>

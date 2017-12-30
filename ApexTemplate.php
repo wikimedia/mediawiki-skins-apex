@@ -212,7 +212,10 @@ class ApexTemplate extends BaseTemplate {
 		}
 		?>
 <div class="portal" id='<?php echo Sanitizer::escapeId( "p-$name" ) ?>'<?php echo Linker::tooltip( 'p-' . $name ) ?>>
-	<h5<?php $this->html( 'userlangattributes' ) ?>><?php $msgObj = wfMessage( $msg ); echo htmlspecialchars( $msgObj->exists() ? $msgObj->text() : $msg ); ?></h5>
+	<h5<?php $this->html( 'userlangattributes' ) ?>><?php
+		$msgObj = wfMessage( $msg );
+		echo htmlspecialchars( $msgObj->exists() ? $msgObj->text() : $msg );
+	?></h5>
 	<div class="body">
 <?php
 		if ( is_array( $content ) ): ?>
@@ -260,7 +263,10 @@ class ApexTemplate extends BaseTemplate {
 			switch ( $element ) {
 				case 'NAMESPACES':
 ?>
-<div id="p-namespaces" class="apex-tabs<?php if ( count( $this->data['namespace_urls'] ) == 0 ) echo ' emptyPortlet'; ?>">
+<div id="p-namespaces" class="apex-tabs<?php
+	if ( count( $this->data['namespace_urls'] ) == 0 ) {
+		echo ' emptyPortlet';
+	} ?>">
 	<h5><?php $this->msg( 'namespaces' ) ?></h5>
 	<ul<?php $this->html( 'userlangattributes' ) ?>>
 		<?php foreach ( $this->data['namespace_urls'] as $link ): ?>
@@ -272,7 +278,10 @@ class ApexTemplate extends BaseTemplate {
 				break;
 				case 'VARIANTS':
 ?>
-<div id="p-variants" class="apex-menu<?php if ( count( $this->data['variant_urls'] ) == 0 ) echo ' emptyPortlet'; ?>">
+<div id="p-variants" class="apex-menu<?php
+	if ( count( $this->data['variant_urls'] ) == 0 ) {
+		echo ' emptyPortlet';
+	} ?>">
 	<h4>
 	<?php foreach ( $this->data['variant_urls'] as $link ): ?>
 		<?php if ( stripos( $link['attributes'], 'selected' ) !== false ): ?>
@@ -293,9 +302,10 @@ class ApexTemplate extends BaseTemplate {
 				break;
 				case 'VIEWS':
 ?>
-<div id="p-views" class="apex-tabs<?php if ( count( $this->data['view_urls'] ) == 0 ) {
-	echo ' emptyPortlet';
-} ?>">
+<div id="p-views" class="apex-tabs<?php
+	if ( count( $this->data['view_urls'] ) == 0 ) {
+		echo ' emptyPortlet';
+	} ?>">
 	<h5><?php $this->msg( 'views' ) ?></h5>
 	<ul<?php $this->html( 'userlangattributes' ) ?>>
 		<?php foreach ( $this->data['view_urls'] as $link ): ?>
@@ -312,7 +322,10 @@ class ApexTemplate extends BaseTemplate {
 				break;
 				case 'ACTIONS':
 ?>
-<div id="p-cactions" class="apex-menu<?php if ( count( $this->data['action_urls'] ) == 0 ) echo ' emptyPortlet'; ?>">
+<div id="p-cactions" class="apex-menu<?php
+	if ( count( $this->data['action_urls'] ) == 0 ) {
+		echo ' emptyPortlet';
+	} ?>">
 	<h5><span><?php $this->msg( 'actions' ) ?></span><a href="#"></a></h5>
 	<div class="apex-menu-popup">
 		<ul<?php $this->html( 'userlangattributes' ) ?>>
@@ -326,7 +339,10 @@ class ApexTemplate extends BaseTemplate {
 				break;
 				case 'PERSONAL':
 ?>
-<div id="p-personal" class="<?php if ( count( $this->data['personal_urls'] ) == 0 ) echo ' emptyPortlet'; ?>">
+<div id="p-personal" class="<?php
+	if ( count( $this->data['personal_urls'] ) == 0 ) {
+		echo ' emptyPortlet';
+	} ?>">
 	<h5><?php $this->msg( 'personaltools' ) ?></h5>
 	<ul<?php $this->html( 'userlangattributes' ) ?>>
 		<?php foreach ( $this->getPersonalTools() as $key => $item ): ?>
