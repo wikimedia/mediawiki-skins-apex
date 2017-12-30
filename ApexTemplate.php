@@ -224,7 +224,9 @@ class ApexTemplate extends BaseTemplate {
 <?php
 			endforeach;
 			if ( $hook !== null ) {
-				Hooks::run( $hook, [ &$this, true ] );
+				// Avoid PHP 7.1 warning of passing $this by reference
+				$template = $this;
+				Hooks::run( $hook, [ &$template, true ] );
 			}
 			?>
 		</ul>
