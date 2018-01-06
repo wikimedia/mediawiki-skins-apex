@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sator"
+			"Sator",
+			"Mikel Ibaiba"
 		]
 	},
 	"apex-action-addsection": "Gehitu atala",
@@ -9,8 +10,10 @@
 	"apex-action-move": "Mugitu",
 	"apex-action-protect": "Babestu",
 	"apex-action-undelete": "Berreskuratu",
+	"apex-action-unprotect": "Babesa aldatu",
 	"apex-view-create": "Sortu",
 	"apex-view-edit": "Aldatu",
 	"apex-view-history": "Ikusi historia",
-	"apex-view-view": "Irakurri"
+	"apex-view-view": "Irakurri",
+	"apex-view-viewsource": "Iturria ikusi"
 }
