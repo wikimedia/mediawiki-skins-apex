@@ -164,7 +164,7 @@ class ApexTemplate extends BaseTemplate {
 	/**
 	 * Render a series of portals
 	 *
-	 * @param $portals array
+	 * @param array $portals
 	 */
 	protected function renderPortals( $portals ) {
 		// Force the rendering of the following portals
@@ -201,10 +201,10 @@ class ApexTemplate extends BaseTemplate {
 	}
 
 	/**
-	 * @param $name string
-	 * @param $content array
-	 * @param $msg null|string
-	 * @param $hook null|string|array
+	 * @param string $name
+	 * @param array $content
+	 * @param null|string $msg
+	 * @param null|string|array $hook
 	 */
 	protected function renderPortal( $name, $content, $msg = null, $hook = null ) {
 		if ( $msg === null ) {
@@ -247,7 +247,7 @@ class ApexTemplate extends BaseTemplate {
 	 * Render one or more navigations elements by name, automatically reveresed
 	 * when UI is in RTL mode
 	 *
-	 * @param $elements array
+	 * @param array $elements
 	 */
 	protected function renderNavigation( $elements ) {
 		// If only one element was given, wrap it in an array, allowing more

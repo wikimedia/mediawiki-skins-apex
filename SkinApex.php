@@ -13,7 +13,7 @@ class SkinApex extends SkinTemplate {
 
 	/**
 	 * Initializes output page and sets up skin-specific parameters
-	 * @param $out OutputPage object to initialize
+	 * @param OutputPage $out OutputPage object to initialize
 	 */
 	public function initPage( OutputPage $out ) {
 		global $wgLocalStylePath;
@@ -40,7 +40,7 @@ class SkinApex extends SkinTemplate {
 	/**
 	 * Load skin and user CSS files in the correct order
 	 * fixes bug 22916
-	 * @param $out OutputPage object
+	 * @param OutputPage $out OutputPage object
 	 */
 	function setupSkinUserCss( OutputPage $out ) {
 		parent::setupSkinUserCss( $out );
@@ -53,8 +53,8 @@ class SkinApex extends SkinTemplate {
 	/**
 	 * Adds classes to the body element.
 	 *
-	 * @param $out OutputPage object
-	 * @param &$bodyAttrs Array of attributes that will be set on the body element
+	 * @param OutputPage $out OutputPage object
+	 * @param array &$bodyAttrs Array of attributes that will be set on the body element
 	 */
 	function addToBodyAttributes( $out, &$bodyAttrs ) {
 		if ( isset( $bodyAttrs['class'] ) && strlen( $bodyAttrs['class'] ) > 0 ) {
