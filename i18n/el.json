@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nikosgranturismogt"
+		]
+	},
+	"apex-desc": "Σύγχρονη έκδοση του Vector με φρέσκια ματιά και πολλές βελτιώσεις χρηστικότητας",
+	"apex-action-addsection": "Προσθήκη θέματος",
+	"apex-action-delete": "Διαγραφή",
+	"apex-action-move": "Μετακίνηση",
+	"apex-action-protect": "Προστασία",
+	"apex-action-undelete": "Επαναφορά",
+	"apex-action-unprotect": "Αλλαγή προστασίας",
+	"apex-view-create": "Δημιουργία",
+	"apex-view-edit": "Επεξεργασία",
+	"apex-view-history": "Προβολή ιστορικού",
+	"apex-view-view": "Ανάγνωση",
+	"apex-view-viewsource": "Προβολή κώδικα"
+}
