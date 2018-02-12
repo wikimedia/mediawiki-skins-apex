@@ -25,11 +25,9 @@
 	},
 	"ResourceModules": {
 		"skins.apex": {
-			"position": "bottom",
 			"scripts": "resources/apex.js"
 		},
 		"skins.apex.styles": {
-			"position": "bottom",
 			"styles": {
 				"resources/screen.css": {
 					"media": "screen"
