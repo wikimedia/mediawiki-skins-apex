@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Acamicamacaraca"
+		]
+	},
+	"apex-action-addsection": "Додај тему",
+	"apex-action-delete": "Обриши",
+	"apex-action-move": "Премести",
+	"apex-action-protect": "Заштити",
+	"apex-action-undelete": "Врати",
+	"apex-action-unprotect": "Промени заштиту",
+	"apex-view-create": "Направи",
+	"apex-view-edit": "Уреди",
+	"apex-view-history": "Историја",
+	"apex-view-view": "Читај",
+	"apex-view-viewsource": "Изворни кôд"
+}
