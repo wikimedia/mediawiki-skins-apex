@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zoranzoki21"
+		]
+	},
+	"apex-action-addsection": "Dodaj temu",
+	"apex-action-delete": "Obriši",
+	"apex-action-move": "Premesti",
+	"apex-action-protect": "Zaštiti",
+	"apex-action-undelete": "Vrati",
+	"apex-action-unprotect": "Promeni zaštitu",
+	"apex-view-create": "Napravi",
+	"apex-view-edit": "Uredi",
+	"apex-view-history": "Istorija",
+	"apex-view-view": "Čitaj",
+	"apex-view-viewsource": "Izvorni kôd"
+}
