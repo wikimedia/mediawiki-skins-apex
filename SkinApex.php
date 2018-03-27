@@ -9,7 +9,7 @@ class SkinApex extends SkinTemplate {
 	protected static $bodyClasses = [ 'apex-animateLayout' ];
 
 	var $skinname = 'apex', $stylename = 'apex',
-		$template = 'ApexTemplate', $useHeadElement = true;
+		$template = 'ApexTemplate';
 
 	/**
 	 * Initializes output page and sets up skin-specific parameters
