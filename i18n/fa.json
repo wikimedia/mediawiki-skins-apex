@@ -1,19 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Reza1615"
+			"Reza1615",
+			"Alireza Ivaz"
 		]
 	},
-	"apex-desc": "نسخهٔ مدرن برداری با نمای جدید و بهینه‌سازی",
-	"apex-action-addsection": "افزودن مبحث",
+	"apex-desc": "نسخهٔ مدرن برداری با نمای تازه و بهینه‌سازی",
+	"apex-action-addsection": "افزودن بخش",
 	"apex-action-delete": "حذف",
 	"apex-action-move": "انتقال",
 	"apex-action-protect": "محافظت",
-	"apex-action-undelete": "احیاء",
+	"apex-action-undelete": "بازیابی",
 	"apex-action-unprotect": "تغییر سطح حفاظت",
-	"apex-view-create": "ایجاد",
+	"apex-view-create": "ساختن",
 	"apex-view-edit": "ویرایش",
 	"apex-view-history": "نمایش تاریخچه",
 	"apex-view-view": "خواندن",
-	"apex-view-viewsource": "نمایش مبدأ"
+	"apex-view-viewsource": "نمایش خاستگاه"
 }
