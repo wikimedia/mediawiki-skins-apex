@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Ash Crow",
-			"Macofe"
+			"Macofe",
+			"Od1n"
 		]
 	},
 	"apex-desc": "Version moderne de Vector avec un aspect rajeuni et beaucoup d’améliorations ergonomiques",
@@ -14,7 +15,7 @@
 	"apex-action-unprotect": "Changer la protection",
 	"apex-view-create": "Créer",
 	"apex-view-edit": "Modifier",
-	"apex-view-history": "Afficher l’historique",
+	"apex-view-history": "Voir l’historique",
 	"apex-view-view": "Lire",
 	"apex-view-viewsource": "Voir la source"
 }
