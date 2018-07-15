@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Acamicamacaraca",
-			"BadDog"
+			"BadDog",
+			"Obsuser"
 		]
 	},
 	"apex-desc": "Модерна верзија Векторске са свежим изгледом и много корисних побољшања",
@@ -16,5 +17,5 @@
 	"apex-view-edit": "Уреди",
 	"apex-view-history": "Историја",
 	"apex-view-view": "Читај",
-	"apex-view-viewsource": "Изворни кôд"
+	"apex-view-viewsource": "Изворни код"
 }

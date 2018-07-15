@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Zoranzoki21"
+			"Zoranzoki21",
+			"Obsuser"
 		]
 	},
 	"apex-action-addsection": "Dodaj temu",
@@ -14,5 +15,5 @@
 	"apex-view-edit": "Uredi",
 	"apex-view-history": "Istorija",
 	"apex-view-view": "Čitaj",
-	"apex-view-viewsource": "Izvorni kôd"
+	"apex-view-viewsource": "Izvorni kod"
 }
