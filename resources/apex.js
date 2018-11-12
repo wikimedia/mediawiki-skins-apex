@@ -1,7 +1,7 @@
 /*
  * Apex-specific scripts
  */
-( function ( $, mw ) {
+( function () {
 
 	mw.ApexSkin = function () {
 		// Properties
@@ -68,4 +68,4 @@
 		mw.skin = new mw.ApexSkin();
 	} );
 
-}( jQuery, mediaWiki ) );
+}() );
