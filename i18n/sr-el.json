@@ -5,7 +5,7 @@
 			"Obsuser"
 		]
 	},
-	"apex-desc": "Savremena verzija Vektorske sa svežim izgledom i mnogo korisnih poboljšanja",
+	"apex-desc": "Savremena verzija Vektorske teme sa svežim izgledom i mnogim poboljšanjima upotrebljivosti",
 	"apex-action-addsection": "Dodaj temu",
 	"apex-action-delete": "Izbriši",
 	"apex-action-move": "Premesti",
@@ -16,5 +16,5 @@
 	"apex-view-edit": "Uredi",
 	"apex-view-history": "Istorija",
 	"apex-view-view": "Čitaj",
-	"apex-view-viewsource": "Izvornik"
+	"apex-view-viewsource": "Izvor"
 }
