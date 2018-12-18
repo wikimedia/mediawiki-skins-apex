@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Geonuch"
+		]
+	},
+	"apex-desc": "รุ่นใหม่ของเวกเตอร์ด้วยมุมมองใหม่และปรับปรุงการใช้จำนวนมาก",
+	"apex-action-addsection": "เพิ่มหัวข้อ",
+	"apex-action-delete": "ลบ",
+	"apex-action-move": "ย้าย",
+	"apex-action-protect": "ป้องกัน",
+	"apex-action-undelete": "กู้คืน",
+	"apex-action-unprotect": "เปลี่ยนการป้องกัน",
+	"apex-view-create": "สร้าง",
+	"apex-view-edit": "แก้ไข",
+	"apex-view-history": "ดูประวัติ",
+	"apex-view-view": "อ่าน",
+	"apex-view-viewsource": "ดูต้นฉบับ"
+}
