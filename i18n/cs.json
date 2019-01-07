@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Clon"
+			"Clon",
+			"Dvorapa"
 		]
 	},
+	"apex.css": "/* Zde uvedené CSS bude ovlivňovat pouze vzhled „Apex“ */",
+	"apex.js": "/* Zde uvedený JavaScript bude použit pouze pro uživatele vzhledu „Apex“ */",
 	"apex-action-addsection": "Přidat téma",
 	"apex-action-delete": "Smazat",
 	"apex-action-move": "Přesunout",
