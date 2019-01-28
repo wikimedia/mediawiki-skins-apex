@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Mirws",
-			"Kenrick95"
+			"Kenrick95",
+			"William Surya Permana"
 		]
 	},
+	"apex-desc": "Versi modern dari Vector dengan tampilan yang segar dan banyak perbaikan kegunaan",
 	"apex-action-addsection": "Tambah topik",
 	"apex-action-delete": "Hapus",
 	"apex-action-move": "Pindahkan",
