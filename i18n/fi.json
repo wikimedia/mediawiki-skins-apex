@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Pitke",
-			"01miki10"
+			"01miki10",
+			"Pyscowicz"
 		]
 	},
-	"apex-desc": "Vectorin uudistettu versio, jossa raikas ilme ja parannettu käytttävyys",
+	"apex-desc": "Vektorin uudistettu versio, jossa raikas ilme ja parannettu käytttävyys",
 	"apex-action-addsection": "Lisää aihe",
 	"apex-action-delete": "Poista",
 	"apex-action-move": "Siirrä",
