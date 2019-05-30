@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mirin"
+		]
+	},
+	"apex-desc": "Moderna versio de Vector, kun freŝa aspekto kaj plibonigado de uzebleco",
+	"apex-action-addsection": "Aldoni temon",
+	"apex-action-delete": "Forigi",
+	"apex-action-move": "Movi",
+	"apex-action-protect": "Protekti",
+	"apex-action-undelete": "Malforigi",
+	"apex-action-unprotect": "Ŝanĝi la protektadon",
+	"apex-view-create": "Krei",
+	"apex-view-edit": "Redakti",
+	"apex-view-history": "Vidi historion",
+	"apex-view-view": "Legi",
+	"apex-view-viewsource": "Vidi fonton"
+}
