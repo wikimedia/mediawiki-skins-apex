@@ -5,7 +5,8 @@
 			"Kumkumuk",
 			"Mirzali",
 			"Asmen",
-			"Gırd"
+			"Gırd",
+			"Orbot707"
 		]
 	},
 	"apex-desc": "Asayışo de newe be versiyonê Vektoriyo modern ra û weşkerdışê ke şenê bıgureniyê",
@@ -17,7 +18,7 @@
 	"apex-action-unprotect": "Starkerdışi bıvurne",
 	"apex-view-create": "Vıraze",
 	"apex-view-edit": "Bıvurne",
-	"apex-view-history": "Verênan bıvêne",
+	"apex-view-history": "'''Verêni bıvin'''",
 	"apex-view-view": "Bıwane",
 	"apex-view-viewsource": "Çımey bıvêne"
 }
