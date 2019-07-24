@@ -24,6 +24,7 @@ a:visited {
 	margin: 0.75em 0 0 3em;
 	padding: 0;
 }
+
 #p-logo a {
 	display: block;
 	height: 3.5em;
@@ -252,13 +253,16 @@ a:visited {
 	left: 0;
 	border-left: 0;
 }
+
 #toc {
 	right: 0;
 	border-right: 0;
 }
+
 #p-navigation {
 	margin-top: 0.5em;
 }
+
 #p-navigation h5,
 #toctitle h2,
 #toctitle span {
@@ -274,11 +278,13 @@ a:visited {
 	border-color: #d5eaed;
 	background-color: #fff;
 }
+
 #mw-panel:hover {
 	-webkit-border-radius: 0 0 0.25em 0;
 	-moz-border-radius: 0 0 0.25em 0;
 	border-radius: 0 0 0.25em 0;
 }
+
 #toc:hover {
 	-webkit-border-radius: 0 0 0 0.25em;
 	-moz-border-radius: 0 0 0 0.25em;
@@ -297,6 +303,7 @@ a:visited {
 	background-repeat: no-repeat;
 	cursor: pointer;
 }
+
 #toctitle {
 	position: absolute;
 	top: -2em;
@@ -426,15 +433,18 @@ a:visited {
 	margin-top: 1.5em;
 	position: relative;
 }
+
 #p-personal h5 {
 	display: none;
 }
+
 #p-personal ul {
 	margin: 0;
 	padding: 0;
 	list-style: none;
 	padding-bottom: 0;
 }
+
 #p-personal li {
 	white-space: nowrap;
 }
@@ -445,9 +455,11 @@ a:visited {
 	display: none;
 	z-index: 100;
 }
+
 #p-personal:hover .apex-menu-popup {
 	display: block;
 }
+
 #pt-userpage {
 	padding-right: 18px;
 	background-position: right center;
@@ -460,6 +472,7 @@ a:visited {
 	background-position: left 40%;
 	background-repeat: no-repeat;
 }
+
 #pt-userpage a:hover {
 	text-decoration: none;
 }
@@ -475,12 +488,15 @@ a:visited {
 	-webkit-transition: right 250ms;
 	-o-transition: right 250ms;
 }
+
 #simpleSearch {
 	text-align: right;
 }
+
 #p-search h5 {
 	display: none;
 }
+
 #searchInput {
 	border: solid 1px #ccc;
 	border-radius: 1em;
@@ -496,10 +512,12 @@ a:visited {
 	-webkit-transition: right 250ms;
 	-o-transition: right 250ms;
 }
+
 #searchInput:focus {
 	width: 12em;
 	outline: 0;
 }
+
 #searchButton {
 	background-color: transparent;
 	border: 0;
@@ -507,6 +525,7 @@ a:visited {
 	opacity: 0.75;
 	cursor: pointer;
 }
+
 #searchButton:hover {
 	opacity: 1;
 }
@@ -522,22 +541,27 @@ a:visited {
 	background-position: left center;
 	background-repeat: no-repeat;
 }
+
 #ca-unwatch a {
 	background-position: -43px 50%;
 }
+
 #ca-watch a {
 	background-position: 5px 50%;
 }
+
 #ca-unwatch a:hover,
 #ca-unwatch a:focus {
 	background-color: transparent;
 	background-position: -67px 50%;
 }
+
 #ca-watch a:hover,
 #ca-watch a:focus {
 	background-color: transparent;
 	background-position: -19px 50%;
 }
+
 #ca-unwatch .loading,
 #ca-watch .loading {
 	/* @embed */
