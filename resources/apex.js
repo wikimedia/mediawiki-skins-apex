@@ -1,6 +1,7 @@
 /*
  * Apex-specific scripts
  */
+/* eslint-disable no-jquery/no-global-selector */
 ( function () {
 
 	mw.ApexSkin = function () {
@@ -15,7 +16,7 @@
 		this.stash = [];
 
 		// Events
-		$( window ).on( 'resize', $.proxy( this.onResize, this ) );
+		$( window ).on( 'resize', this.onResize.bind( this ) );
 
 		// Initialization
 		this.onResize();
