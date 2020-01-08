@@ -6,5 +6,8 @@
 	],
 	"globals": {
 		"mw": "readonly"
+	},
+	"rules": {
+		"no-jquery/no-global-selector": "off"
 	}
 }
