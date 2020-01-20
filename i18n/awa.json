@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ajeetsinghawadhi"
+		]
+	},
+	"apex-action-delete": "मिटावा",
+	"apex-action-move": "घुस्कावा जाय",
+	"apex-action-protect": "सुरक्षित करा जाय",
+	"apex-action-undelete": "हटाइब वापस लिहा जाय",
+	"apex-action-unprotect": "सुरक्षा बदल दिहा जाय",
+	"apex-view-create": "बनावा जाय"
+}
