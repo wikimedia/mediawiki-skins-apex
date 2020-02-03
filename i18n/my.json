@@ -3,7 +3,8 @@
 		"authors": [
 			"Zawthet",
 			"Akhin57",
-			"Ninjastrikers"
+			"Ninjastrikers",
+			"Dr Lotus Black"
 		]
 	},
 	"apex-action-addsection": "အကြောင်းအရာအသစ် ထပ်ထည့်ရန်",
@@ -15,5 +16,6 @@
 	"apex-view-create": "စတင်ရေးသားရန်",
 	"apex-view-edit": "ပြင်ဆင်ရန်",
 	"apex-view-history": "ရာဇဝင်ကြည့်ရန်",
+	"apex-view-view": "ဖတ်ရန်",
 	"apex-view-viewsource": "ရင်းမြစ်ကို ကြည့်ရန်"
 }

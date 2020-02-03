@@ -3,10 +3,13 @@
 		"authors": [
 			"Ash Crow",
 			"Macofe",
-			"Od1n"
+			"Od1n",
+			"Derugon"
 		]
 	},
 	"apex-desc": "Version moderne de Vector avec un aspect rajeuni et beaucoup d’améliorations ergonomiques",
+	"apex.css": "/* Le CSS placé ici affectera les utilisateurs de l’habillage Apex. */",
+	"apex.js": "/* Tout JavaScript ici sera chargé pour les utilisateurs utilisant l’habillage Apex */",
 	"apex-action-addsection": "Ajouter un sujet",
 	"apex-action-delete": "Supprimer",
 	"apex-action-move": "Déplacer",
