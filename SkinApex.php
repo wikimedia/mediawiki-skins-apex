@@ -54,9 +54,10 @@ class SkinApex extends SkinTemplate {
 	 * Adds classes to the body element.
 	 *
 	 * @param OutputPage $out OutputPage object
+	 * @param Skin $sk
 	 * @param array &$bodyAttrs Array of attributes that will be set on the body element
 	 */
-	function addToBodyAttributes( $out, &$bodyAttrs ) {
+	public static function onOutputPageBodyAttributes( OutputPage $out, Skin $sk, &$bodyAttrs ) {
 		if ( isset( $bodyAttrs['class'] ) && strlen( $bodyAttrs['class'] ) > 0 ) {
 			$bodyAttrs['class'] .= ' ' . implode( ' ', static::$bodyClasses );
 		} else {

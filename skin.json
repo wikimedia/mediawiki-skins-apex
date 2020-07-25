@@ -23,6 +23,9 @@
 		"SkinApex": "SkinApex.php",
 		"ApexTemplate": "ApexTemplate.php"
 	},
+	"Hooks": {
+		"OutputPageBodyAttributes": "SkinApex::onOutputPageBodyAttributes"
+	},
 	"ResourceModules": {
 		"skins.apex": {
 			"scripts": "resources/apex.js"
