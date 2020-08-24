@@ -40,14 +40,15 @@ class SkinApex extends SkinTemplate {
 	/**
 	 * Load skin and user CSS files in the correct order
 	 * fixes bug 22916
-	 * @param OutputPage $out OutputPage object
+	 * @return array Array of modules with helper keys for easy overriding
 	 */
-	function setupSkinUserCss( OutputPage $out ) {
-		parent::setupSkinUserCss( $out );
-		$out->addModuleStyles( [
+	public function getDefaultModules() {
+		$modules = parent::getDefaultModules();
+		$modules['styles']['skin'] = [
 			'mediawiki.skinning.interface',
 			'skins.apex.styles'
-		] );
+		];
+		return $modules;
 	}
 
 	/**
