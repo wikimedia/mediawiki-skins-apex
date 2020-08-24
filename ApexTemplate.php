@@ -40,7 +40,7 @@ class ApexTemplate extends BaseTemplate {
 
 				$xmlID = isset( $link['id'] ) ? $link['id'] : 'ca-' . $xmlID;
 				$nav[$section][$key]['attributes'] =
-					' id="' . Sanitizer::escapeId( $xmlID ) . '"';
+					' id="' . Sanitizer::escapeIdForAttribute( $xmlID ) . '"';
 				if ( $link['class'] ) {
 					$nav[$section][$key]['attributes'] .=
 						' class="' . htmlspecialchars( $link['class'] ) . '"';
@@ -211,7 +211,7 @@ class ApexTemplate extends BaseTemplate {
 			$msg = $name;
 		}
 		?>
-<div class="portal" id='<?php echo Sanitizer::escapeId( "p-$name" ) ?>'<?php echo Linker::tooltip( 'p-' . $name ) ?>>
+<div class="portal" id='<?php echo Sanitizer::escapeIdForAttribute( "p-$name" ) ?>'<?php echo Linker::tooltip( 'p-' . $name ) ?>>
 	<h5<?php $this->html( 'userlangattributes' ) ?>><?php
 		$msgObj = wfMessage( $msg );
 		echo htmlspecialchars( $msgObj->exists() ? $msgObj->text() : $msg );
