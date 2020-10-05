@@ -3,6 +3,7 @@
 		"authors": [
 			"BaRaN6161 TURK",
 			"Mavrikant",
+			"MuratTheTurkish",
 			"Vito Genovese"
 		]
 	},
@@ -15,7 +16,7 @@
 	"apex-action-unprotect": "Korumayı değiştir",
 	"apex-view-create": "Oluştur",
 	"apex-view-edit": "Düzenle",
-	"apex-view-history": "Geçmişi gör",
+	"apex-view-history": "Geçmişi görüntüle",
 	"apex-view-view": "Oku",
 	"apex-view-viewsource": "Kaynağı gör"
 }
