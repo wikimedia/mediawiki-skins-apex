@@ -186,7 +186,7 @@ class ApexTemplate extends BaseTemplate {
 				case 'SEARCH':
 					break;
 				case 'TOOLBOX':
-					$this->renderPortal( 'tb', $this->getToolbox(), 'toolbox', 'SkinTemplateToolboxEnd' );
+					$this->renderPortal( 'tb', $this->data['sidebar']['TOOLBOX'], 'toolbox', 'SkinTemplateToolboxEnd' );
 					break;
 				case 'LANGUAGES':
 					if ( $this->data['language_urls'] ) {
