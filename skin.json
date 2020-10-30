@@ -9,7 +9,17 @@
 	"license-name": "GPL-2.0-or-later",
 	"type": "skin",
 	"ValidSkinNames": {
-		"apex": "Apex"
+		"apex": {
+			"class": "SkinApex",
+			"args": [ {
+				"name": "Apex",
+				"responsive": false,
+				"styles": [
+					"mediawiki.skinning.interface",
+					"skins.apex.styles"
+				]
+			} ]
+		}
 	},
 	"SkinOOUIThemes": {
 		"apex": "Apex"
