@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Helpau",
 			"Kaganer",
 			"Okras",
 			"SmartNart12"
 		]
 	},
+	"skinname-apex": "Apex",
 	"apex-desc": "Современная версия темы оформления «Векторное» с обновлённым оформлением и многими улучшениями в юзабилити",
 	"apex-action-addsection": "Добавить тему",
 	"apex-action-delete": "Удалить",
