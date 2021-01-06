@@ -4,11 +4,6 @@
 		<!-- Disable failing rules -->
 		<exclude name="Generic.Files.LineLength.TooLong"/>
 		<exclude name="MediaWiki.AlternativeSyntax.AlternativeSyntax.AlternativeSyntax" />
-		<exclude name="MediaWiki.Commenting.PropertyDocumentation.MissingDocumentationProtected" />
-		<exclude name="MediaWiki.Commenting.PropertyDocumentation.MissingDocumentationPublic" />
-		<exclude name="PSR2.Classes.PropertyDeclaration.ScopeMissing"/>
-		<exclude name="PSR2.Classes.PropertyDeclaration.VarUsed" />
-		<exclude name="Squiz.Scope.MemberVarScope.Missing" />
 		<exclude name="MediaWiki.WhiteSpace.SpaceBeforeSingleLineComment.NewLineComment"/>
 	</rule>
 	<file>.</file>
