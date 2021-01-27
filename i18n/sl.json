@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dbc334"
+			"Dbc334",
+			"Eleassar"
 		]
 	},
 	"apex-desc": "Sodobna različica Vector s svežim videzom in mnogimi izboljšavami uporabnosti",
@@ -13,7 +14,7 @@
 	"apex-action-unprotect": "Spremeni zaščito",
 	"apex-view-create": "Ustvari",
 	"apex-view-edit": "Uredi",
-	"apex-view-history": "Poglej zgodovino",
+	"apex-view-history": "Ogled zgodovine",
 	"apex-view-view": "Preberi",
 	"apex-view-viewsource": "Izvorno besedilo"
 }
