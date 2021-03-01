@@ -8,7 +8,7 @@
 	"skinname-apex": "Apex",
 	"apex-desc": "Modern version av Vektor med ett nytt utseende och flera användarvänlighetsförbättringar",
 	"apex.css": "/* CSS som skrivs här kommer att påverka alla användare av utseendet Apex */",
-	"apex.js": "/* JavaScript här kommer att laddas för dem som använder utseendet Apex */",
+	"apex.js": "/* All JavaScript här kommer att läsas in för de som använder utseendet Apex */",
 	"apex-action-addsection": "Lägg till ämne",
 	"apex-action-delete": "Radera",
 	"apex-action-move": "Flytta",
