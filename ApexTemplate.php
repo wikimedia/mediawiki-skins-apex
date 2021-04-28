@@ -1,5 +1,7 @@
 <?php
 
+use MediaWiki\MediaWikiServices;
+
 /**
  * QuickTemplate class for Apex skin
  * @ingroup Skins
@@ -16,7 +18,8 @@ class ApexTemplate extends BaseTemplate {
 
 		// Build additional attributes for navigation urls
 		$nav = $this->data['content_navigation'];
-		$mode = $this->getSkin()->getUser()->isWatched( $this->getSkin()->getRelevantTitle() ) ?
+		$mode = MediaWikiServices::getInstance()->getWatchlistManager()
+			->isWatched( $this->getSkin()->getUser(), $this->getSkin()->getRelevantTitle() ) ?
 			'unwatch' : 'watch';
 		if ( isset( $nav['actions'][$mode] ) ) {
 			$nav['views'][$mode] = $nav['actions'][$mode];
