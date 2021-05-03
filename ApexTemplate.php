@@ -198,7 +198,7 @@ class ApexTemplate extends BaseTemplate {
 					break;
 				default:
 					$this->renderPortal( $name, $content );
-				break;
+					break;
 			}
 		}
 	}
@@ -278,7 +278,7 @@ class ApexTemplate extends BaseTemplate {
 	</ul>
 </div>
 <?php
-				break;
+					break;
 				case 'VARIANTS':
 ?>
 <div id="p-variants" class="apex-menu<?php
@@ -302,7 +302,7 @@ class ApexTemplate extends BaseTemplate {
 	</div>
 </div>
 <?php
-				break;
+					break;
 				case 'VIEWS':
 ?>
 <div id="p-views" class="apex-tabs<?php
@@ -322,7 +322,7 @@ class ApexTemplate extends BaseTemplate {
 	</ul>
 </div>
 <?php
-				break;
+					break;
 				case 'ACTIONS':
 ?>
 <div id="p-cactions" class="apex-menu<?php
@@ -339,7 +339,7 @@ class ApexTemplate extends BaseTemplate {
 	</div>
 </div>
 <?php
-				break;
+					break;
 				case 'PERSONAL':
 ?>
 <div id="p-personal" class="<?php
@@ -363,7 +363,7 @@ class ApexTemplate extends BaseTemplate {
 	</ul>
 </div>
 <?php
-				break;
+					break;
 				case 'SEARCH':
 ?>
 <div id="p-search">
@@ -377,7 +377,7 @@ class ApexTemplate extends BaseTemplate {
 	</form>
 </div>
 <?php
-				break;
+					break;
 			}
 		}
 	}
