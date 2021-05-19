@@ -2,10 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Chrumps",
+			"Rail",
 			"The Polish"
 		]
 	},
 	"apex-desc": "Odświeżona wersja skórki Wektor, z nowym wyglądem i usprawnieniami",
+	"apex.css": "/* Umieszczony tutaj kod CSS zostanie załadowany przez użytkowników korzystających ze skórki Apex */",
+	"apex.js": "/* Umieszczony tutaj kod JavaScript zostanie załadowany przez użytkowników korzystających ze skórki Apex */",
 	"apex-action-addsection": "Dodaj wątek",
 	"apex-action-delete": "Usuń",
 	"apex-action-move": "Przenieś",
