@@ -4,6 +4,13 @@
 			"Ajeje Brazorf"
 		]
 	},
+	"apex-action-addsection": "Agghiunci argumentu",
 	"apex-action-delete": "Cancella",
+	"apex-action-move": "Sposta",
+	"apex-action-protect": "Pruteggi",
+	"apex-action-unprotect": "Cancia la prutizzioni",
+	"apex-view-edit": "Cancia",
+	"apex-view-history": "Talìa la crunuluggìa",
+	"apex-view-view": "Leggi",
 	"apex-view-viewsource": "Talìa la surgenti"
 }
