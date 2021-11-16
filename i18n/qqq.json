@@ -4,7 +4,8 @@
 			"Aursani",
 			"Macofe",
 			"Raymond",
-			"Umherirrender"
+			"Umherirrender",
+			"Ajeje Brazorf"
 		]
 	},
 	"skinname-apex": "{{name}}",
@@ -18,7 +19,7 @@
 	"apex-action-undelete": "Tab at top of page, in apex skin.\n{{Identical|Undelete}}",
 	"apex-action-unprotect": "Tab at top of page, in apex skin.\n{{Identical|Change protection}}",
 	"apex-view-create": "Tab label in the Apex skin. See for example {{canonicalurl:Foo|useskin=apex}}\n{{Identical|Create}}",
-	"apex-view-edit": "Tab label in the Apex skin. See for example {{canonicalurl:Main_Page|useskin=apex}}\n{{Identical|Edit}}",
+	"apex-view-edit": "Tab label in the Apex skin. See for example {{canonicalurl:Support|useskin=apex}}\n{{Identical|Edit}}",
 	"apex-view-history": "Tab label in the Apex skin. See for example {{canonicalurl:Main_Page|useskin=apex}}\n{{Identical|View history}}",
 	"apex-view-view": "Tab label in the Apex skin (verb). See for example {{canonicalurl:Main_Page|useskin=apex}}.\n{{Identical|Read}}",
 	"apex-view-viewsource": "Tab label in the Apex skin.\n{{Identical|View source}}"

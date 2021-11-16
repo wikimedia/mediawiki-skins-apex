@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nicolas Eynaud"
+		]
+	},
+	"apex-desc": "Version modèrna de Vector amb un aspècte e una ergonomia melhorats.",
+	"apex-action-addsection": "Apondre un subjècte",
+	"apex-action-delete": "Suprimir",
+	"apex-action-move": "Desplaçar",
+	"apex-action-protect": "Protegir",
+	"apex-action-undelete": "Restaurar",
+	"apex-action-unprotect": "Modificar la proteccion",
+	"apex-view-create": "Crear",
+	"apex-view-edit": "Modificar",
+	"apex-view-history": "Veire l'istoric",
+	"apex-view-view": "Legir",
+	"apex-view-viewsource": "Veire la fònt"
+}
