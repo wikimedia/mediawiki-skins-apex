@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Seipinne",
+			"Yupik"
+		]
+	},
+	"apex-action-addsection": "Lasseet fáádá",
+	"apex-action-delete": "Siho",
+	"apex-action-move": "Sirde",
+	"apex-action-protect": "Suoijii",
+	"apex-action-unprotect": "Mute suoijim",
+	"apex-view-create": "Räähti",
+	"apex-view-edit": "Mute",
+	"apex-view-history": "Čääiti historjá",
+	"apex-view-view": "Luuvâ",
+	"apex-view-viewsource": "Čääiti käldeekoodi"
+}

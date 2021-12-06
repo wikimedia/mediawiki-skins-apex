@@ -3,9 +3,11 @@
 		"authors": [
 			"Kaganer",
 			"Okras",
-			"SmartNart12"
+			"SmartNart12",
+			"Helpau"
 		]
 	},
+	"skinname-apex": "Apex",
 	"apex-desc": "Современная версия темы оформления «Векторное» с обновлённым оформлением и многими улучшениями в юзабилити",
 	"apex-action-addsection": "Добавить тему",
 	"apex-action-delete": "Удалить",

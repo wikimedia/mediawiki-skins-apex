@@ -1,8 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ghybu"
+			"Ghybu",
+			"Bikarhêner"
 		]
 	},
-	"apex-action-delete": "Jê bibe"
+	"apex-desc": "Versiyona modern yê Vektorê tevî xuyaniyeke teze û çendîn pêşxistinên bikaranînê",
+	"apex-action-addsection": "Mijarekê lê zêde bike",
+	"apex-action-delete": "Jê bibe",
+	"apex-action-move": "Neql bike",
+	"apex-action-protect": "Biparêze",
+	"apex-action-undelete": "Jêbirinê betal bike",
+	"apex-action-unprotect": "Parastinê biguherîne",
+	"apex-view-create": "Çêke",
+	"apex-view-edit": "Biguherîne",
+	"apex-view-history": "Dîrokê bibîne",
+	"apex-view-view": "Bixwîne",
+	"apex-view-viewsource": "Çavkaniyê bibîne"
 }

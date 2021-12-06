@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Oromoo"
+			"Oromoo",
+			"Maammee"
 		]
 	},
-	"apex-action-addsection": "Mata-dure ida'i",
+	"apex-action-addsection": "Mata duree ida'i",
 	"apex-action-delete": "Balleessi",
 	"apex-view-create": "Uumi",
 	"apex-view-edit": "Gulaali",

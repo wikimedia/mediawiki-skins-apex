@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Clon",
-			"Dvorapa"
+			"Dvorapa",
+			"Jaroslav Cerny"
 		]
 	},
+	"apex-desc": "Moderní verze vzhledu Vektor s příjemným vzhledem a vylepšenou použitelností",
 	"apex.css": "/* Zde uvedené CSS bude ovlivňovat pouze vzhled „Apex“ */",
 	"apex.js": "/* Zde uvedený JavaScript bude použit pouze pro uživatele vzhledu „Apex“ */",
 	"apex-action-addsection": "Přidat téma",

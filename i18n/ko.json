@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Revi",
-			"아라"
+			"아라",
+			"MemphisA5"
 		]
 	},
 	"apex-desc": "신선해 보이고 많은 사용성이 개선된 벡터의 현대 버전",
+	"apex.css": "/* 이 CSS 설정은 에이펙스 스킨을 사용하는 사용자에게 적용됩니다 */",
 	"apex-action-addsection": "새 주제",
 	"apex-action-delete": "삭제",
 	"apex-action-move": "이동",

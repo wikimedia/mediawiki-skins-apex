@@ -4,12 +4,14 @@
 			"Ash Crow",
 			"Derugon",
 			"Macofe",
-			"Od1n"
+			"Od1n",
+			"Verdy p"
 		]
 	},
+	"skinname-apex": "Apex",
 	"apex-desc": "Version moderne de Vector avec un aspect rajeuni et beaucoup d’améliorations ergonomiques",
-	"apex.css": "/* Le CSS placé ici affectera les utilisateurs de l’habillage Apex. */",
-	"apex.js": "/* Tout JavaScript ici sera chargé pour les utilisateurs utilisant l’habillage Apex */",
+	"apex.css": "/* Le CSS placé ici affectera les utilisateurs de l’habillage Apex */",
+	"apex.js": "/* Tout code JavaScript placé ici sera chargé avec les pages accédées par les utilisateurs de l’habillage Apex */",
 	"apex-action-addsection": "Ajouter un sujet",
 	"apex-action-delete": "Supprimer",
 	"apex-action-move": "Déplacer",

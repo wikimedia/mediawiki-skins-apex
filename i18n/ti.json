@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joanmp17"
+		]
+	},
+	"apex-action-addsection": "ክፋል ወስኽ",
+	"apex-action-delete": "ሰርዝ",
+	"apex-action-move": "ኣንቀሳቕስ",
+	"apex-action-protect": "ሓልው",
+	"apex-action-unprotect": "ሓለዋ ለውጥ",
+	"apex-view-create": "ፍጠር",
+	"apex-view-edit": "ኣመዓራርይ",
+	"apex-view-history": "ታሪኽ ርኣይ",
+	"apex-view-view": "ኣንብብ",
+	"apex-view-viewsource": "ኮድ ርኣይ"
+}
