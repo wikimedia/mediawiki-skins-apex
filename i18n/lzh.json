@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"SolidBlock"
+			"SolidBlock",
+			"列维劳德"
 		]
 	},
+	"apex-desc": "動力之時髦版，新觀與善用",
 	"apex-action-addsection": "增",
 	"apex-action-delete": "刪",
 	"apex-action-move": "遷",

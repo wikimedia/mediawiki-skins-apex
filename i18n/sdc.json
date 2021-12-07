@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jun Misugi"
+		]
+	},
+	"apex-action-addsection": "Aggiungì oggettu",
+	"apex-action-delete": "Canzillà",
+	"apex-action-protect": "Pruteggì",
+	"apex-view-create": "Crià",
+	"apex-view-edit": "Mudificà",
+	"apex-view-history": "Vèdi isthòria",
+	"apex-view-view": "Liggì",
+	"apex-view-viewsource": "Vèdi còdizi"
+}

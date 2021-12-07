@@ -4,7 +4,10 @@
 			"Joetaras"
 		]
 	},
+	"skinname-apex": "Apex",
 	"apex-desc": "Versione moderne de Vector cu 'nu sguarde aggiornate e 'nu sbuènne de miglioramende sus a l'ausabbilità",
+	"apex.css": "/* 'U CSS ca se iacchie aqquà 'u 'ndrucane le utinde d'a masckere Apex */",
+	"apex.js": "/* Ogne JavaScript aqquà avène carecate pe le utinde ca ausane 'a masckere Apex */",
 	"apex-action-addsection": "Aggiunge 'na discussiona",
 	"apex-action-delete": "Scangille",
 	"apex-action-move": "Spuèste",
