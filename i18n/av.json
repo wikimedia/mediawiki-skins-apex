@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gazimagomedov"
+			"Gazimagomedov",
+			"Omarov M."
 		]
 	},
-	"apex-action-addsection": "Тема жубазе",
-	"apex-action-delete": "БацIцIине",
+	"apex-action-addsection": "ТӀадежубазе тема",
+	"apex-action-delete": "Гилдизабизе",
 	"apex-view-create": "Гьабизе",
 	"apex-view-edit": "Хисизабизе",
-	"apex-view-history": "Тарих балагьизе",
-	"apex-view-viewsource": "Вики-текст балагьизе"
+	"apex-view-history": "Тарихалъухъ ралагьизе",
+	"apex-view-viewsource": "Кодалъухъ ралагьизе"
 }
