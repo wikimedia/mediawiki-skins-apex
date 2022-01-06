@@ -21,8 +21,6 @@ class SkinApex extends SkinTemplate {
 	 * @param OutputPage $out OutputPage object to initialize
 	 */
 	public function initPage( OutputPage $out ) {
-		global $wgLocalStylePath;
-
 		parent::initPage( $out );
 
 		// Append CSS which includes IE only behavior fixes for hover support -
@@ -31,7 +29,7 @@ class SkinApex extends SkinTemplate {
 		$min = $this->getRequest()->getFuzzyBool( 'debug' ) ? '' : '.min';
 		$out->addHeadItem( 'csshover',
 			'<!--[if lt IE 7]><style type="text/css">body{behavior:url("' .
-				htmlspecialchars( $wgLocalStylePath ) .
+				htmlspecialchars( $this->getConfig()->get( 'LocalStylePath' ) ) .
 				"/{$this->stylename}/csshover{$min}.htc\")}</style><![endif]-->"
 		);
 		$out->addHeadItem( 'ie9-gradient',

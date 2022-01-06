@@ -8,13 +8,13 @@ use MediaWiki\MediaWikiServices;
  */
 class ApexTemplate extends BaseTemplate {
 
-	/* Functions */
-
 	/**
 	 * Outputs the entire contents of the (X)HTML page
 	 */
 	public function execute() {
-		global $wgSitename, $wgApexLogo, $wgStylePath;
+		$sitename = $this->config->get( 'Sitename' );
+		$apexLogo = $this->config->get( 'ApexLogo' );
+		$stylePath = $this->config->get( 'StylePath' );
 
 		// Build additional attributes for navigation urls
 		$nav = $this->data['content_navigation'];
@@ -29,10 +29,10 @@ class ApexTemplate extends BaseTemplate {
 
 		// TODO: Move defining the logo path to a resource loader module with media queries to add
 		// support for high DPI displays - this will also improve caching situation
-		$this->data['logopath-1x'] = $wgApexLogo['1x'] ?
-			$wgApexLogo['1x'] : "{$wgStylePath}/apex/images/logos/mediawiki-1x.png";
-		$this->data['logopath-2x'] = $wgApexLogo['2x'] ?
-			$wgApexLogo['2x'] : "{$wgStylePath}/apex/images/logos/mediawiki-2x.png";
+		$this->data['logopath-1x'] = $apexLogo['1x'] ?:
+			"{$stylePath}/apex/images/logos/mediawiki-1x.png";
+		$this->data['logopath-2x'] = $apexLogo['2x'] ?:
+			"{$stylePath}/apex/images/logos/mediawiki-2x.png";
 
 		$xmlID = '';
 		foreach ( $nav as $section => $links ) {
@@ -41,7 +41,7 @@ class ApexTemplate extends BaseTemplate {
 					$link['class'] = rtrim( 'apex-nav-stashable ' . $link['class'], ' ' );
 				}
 
-				$xmlID = isset( $link['id'] ) ? $link['id'] : 'ca-' . $xmlID;
+				$xmlID = $link['id'] ?? 'ca-' . $xmlID;
 				$nav[$section][$key]['attributes'] =
 					' id="' . Sanitizer::escapeIdForAttribute( $xmlID ) . '"';
 				if ( $link['class'] ) {
@@ -119,7 +119,7 @@ class ApexTemplate extends BaseTemplate {
 			</div>
 		</div>
 		<div id="mw-head" class="noprint">
-			<div id="p-logo"><a style="background-image: url(<?php $this->text( 'logopath-1x' ) ?>);" href="<?php echo htmlspecialchars( $this->data['nav_urls']['mainpage']['href'] ) ?>" <?php echo Xml::expandAttributes( Linker::tooltipAndAccesskeyAttribs( 'p-logo' ) ) ?>><span><?php echo $wgSitename ?></span></a></div>
+			<div id="p-logo"><a style="background-image: url(<?php $this->text( 'logopath-1x' ) ?>);" href="<?php echo htmlspecialchars( $this->data['nav_urls']['mainpage']['href'] ) ?>" <?php echo Xml::expandAttributes( Linker::tooltipAndAccesskeyAttribs( 'p-logo' ) ) ?>><span><?php echo $sitename ?></span></a></div>
 			<?php $this->renderNavigation( [ 'SEARCH', 'PERSONAL' ] ); ?>
 			<div class="apex-nav">
 				<div class="apex-nav-primary">
@@ -145,11 +145,11 @@ class ApexTemplate extends BaseTemplate {
 				</ul>
 			<?php endforeach; ?>
 			<?php $footericons = $this->getFooterIcons( "icononly" );
-			if ( count( $footericons ) > 0 ): ?>
+			if ( $footericons ): ?>
 				<ul id="footer-icons" class="noprint">
-					<?php foreach ( $footericons as $blockName => $footerIcons ): ?>
+					<?php foreach ( $footericons as $blockName => $iconBlock ): ?>
 					<li id="footer-<?php echo htmlspecialchars( $blockName ); ?>ico">
-						<?php foreach ( $footerIcons as $icon ): ?>
+						<?php foreach ( $iconBlock as $icon ): ?>
 						<?php echo $this->getSkin()->makeFooterIcon( $icon ); ?>
 						<?php endforeach; ?>
 					</li>
@@ -237,9 +237,9 @@ class ApexTemplate extends BaseTemplate {
 			?>
 		</ul>
 <?php
-		else: ?>
-		<?php echo $content; /* Allow raw HTML block to be defined by extensions */ ?>
-<?php
+		else:
+			// Allow raw HTML block to be defined by extensions
+			echo $content;
 		endif; ?>
 	</div>
 </div>

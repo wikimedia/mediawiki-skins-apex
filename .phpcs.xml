@@ -1,10 +1,8 @@
 <?xml version="1.0"?>
 <ruleset>
 	<rule ref="./vendor/mediawiki/mediawiki-codesniffer/MediaWiki">
-		<!-- Disable failing rules -->
-		<exclude name="Generic.Files.LineLength.TooLong"/>
-		<exclude name="MediaWiki.AlternativeSyntax.AlternativeSyntax.AlternativeSyntax" />
-		<exclude name="MediaWiki.WhiteSpace.SpaceBeforeSingleLineComment.NewLineComment"/>
+		<exclude name="Generic.Files.LineLength" />
+		<exclude name="MediaWiki.AlternativeSyntax.AlternativeSyntax" />
 	</rule>
 	<file>.</file>
 	<arg name="extensions" value="php"/>
