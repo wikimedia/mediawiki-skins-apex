@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Khun Kt"
+		]
+	},
+	"apex-action-addsection": "ထဲမ်သော့ꩻထဲင်း အကျောင်ꩻခရာႏတသာ",
+	"apex-action-delete": "ယားကုဲင်",
+	"apex-action-move": "ခြုဲင်း",
+	"apex-action-protect": "ရဲးကမ်း",
+	"apex-action-undelete": "ယားကုဲင်တဝ်းဒုမ်",
+	"apex-action-unprotect": "ပြောင်ꩻလုဲင်ႏ အရဲးအကမ်း",
+	"apex-view-create": "ဖန်ဆင်ꩻ",
+	"apex-view-edit": "မွဉ်းဖျင်",
+	"apex-view-history": "ထွားရာႏဇာႏဝင်ႏ",
+	"apex-view-view": "ဟော်ꩻ",
+	"apex-view-viewsource": "ထွားအရွီးအခိုႏ"
+}
