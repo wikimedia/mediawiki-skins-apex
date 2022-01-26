@@ -1,8 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"S4b1nuz E.656"
+			"S4b1nuz E.656",
+			"N. Longo"
 		]
 	},
-	"apex-view-edit": "Modìfica"
+	"apex-desc": "Versción modèrna do Vector co-ina câa renovâ e di bèlli avantàggi inte l'adêuviabilitæ",
+	"apex-action-addsection": "Azónzi argoménto",
+	"apex-action-delete": "Scancélla",
+	"apex-action-move": "Méscia",
+	"apex-action-protect": "Protézzi",
+	"apex-action-undelete": "Ricùpera",
+	"apex-action-unprotect": "Càngia a proteçión",
+	"apex-view-create": "Crêa",
+	"apex-view-edit": "Modìfica",
+	"apex-view-history": "Véddi a cronologîa",
+	"apex-view-view": "Lêzi",
+	"apex-view-viewsource": "Véddi o wikitèsto"
 }
