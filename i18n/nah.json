@@ -2,17 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Akapochtli",
-			"Taresi"
+			"Taresi",
+			"Languaeditor"
 		]
 	},
 	"apex-desc": "Yancuic machiyotlaliliztli itech Vector, quipiya yancuic ixconexiliztli ihuan miaquintin tlacencauhtin.",
 	"apex-action-addsection": "Xicahxilti netlahtolpepechtiliztli",
-	"apex-action-delete": "Xicpolo",
-	"apex-action-move": "Xiczaca",
+	"apex-action-delete": "Xikixpolo",
+	"apex-action-move": "Xiksaka",
 	"apex-action-protect": "Xicmocuitlahui",
 	"apex-action-undelete": "Xicmaquixti",
 	"apex-action-unprotect": "Mopatla necuitlahuiliztli",
-	"apex-view-create": "Ticchihuaz",
+	"apex-view-create": "Xikchiwa",
 	"apex-view-edit": "Ticpatlaz",
 	"apex-view-history": "Tiquittaz tlahtollotl",
 	"apex-view-view": "Tamapohuaz",
