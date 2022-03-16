@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Alireza Ivaz",
+			"Beginneruser",
 			"Reza1615"
 		]
 	},
-	"apex-desc": "نسخهٔ مدرن برداری با نمای تازه و بهینه‌سازی",
-	"apex-action-addsection": "افزودن بخش",
+	"apex-desc": "نسخهٔ مدرن برداری با نمای تازه و بهبودهای قابلیت استفاده زیاد",
+	"apex-action-addsection": "افزودن بحث",
 	"apex-action-delete": "حذف",
 	"apex-action-move": "انتقال",
 	"apex-action-protect": "محافظت",
