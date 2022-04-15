@@ -1,4 +1,5 @@
 {
+	"name": "apex",
 	"private": true,
 	"scripts": {
 		"test": "grunt test"

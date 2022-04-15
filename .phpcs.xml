@@ -4,7 +4,8 @@
 		<!-- Disable failing rules -->
 		<exclude name="Generic.Files.LineLength.TooLong"/>
 		<exclude name="MediaWiki.AlternativeSyntax.AlternativeSyntax.AlternativeSyntax" />
-		<exclude name="MediaWiki.WhiteSpace.SpaceBeforeSingleLineComment.NewLineComment"/>
+		<exclude name="MediaWiki.WhiteSpace.SpaceBeforeSingleLineComment.NewLineComment" />
+		<exclude name="PSR2.ControlStructures.SwitchDeclaration.BreakIndent" />
 	</rule>
 	<file>.</file>
 	<arg name="extensions" value="php"/>
