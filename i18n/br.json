@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fulup"
+			"Fulup",
+			"Huñvreüs"
 		]
 	},
+	"apex-desc": "Stumm modern Vektor freskaet e dres hag enni meur a wellaenn implijout",
+	"apex-action-addsection": "Ouzhpennañ ur gaoz",
 	"apex-action-delete": "Diverkañ",
 	"apex-action-move": "Dilec'hiañ",
 	"apex-action-protect": "Gwareziñ",
