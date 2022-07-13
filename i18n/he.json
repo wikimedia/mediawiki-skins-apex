@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80"
+			"Amire80",
+			"דגש"
 		]
 	},
 	"apex-desc": "גרסה מודרנית של וקטור עם מראה טרי והרבה שיפורי שמישות",
@@ -9,7 +10,7 @@
 	"apex-action-delete": "מחיקה",
 	"apex-action-move": "העברה",
 	"apex-action-protect": "הגנה",
-	"apex-action-undelete": "שחזור ממחיקה",
+	"apex-action-undelete": "ביטול מחיקה",
 	"apex-action-unprotect": "שינוי הגנה",
 	"apex-view-create": "יצירה",
 	"apex-view-edit": "עריכה",
