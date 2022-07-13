@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"TayfunEt."
+		]
+	},
+	"apex-action-addsection": "Mevzu qoş",
+	"apex-action-delete": "Yoq et",
+	"apex-action-move": "Adını deñiştir",
+	"apex-action-protect": "Qorçala",
+	"apex-action-undelete": "Keri ketir",
+	"apex-action-unprotect": "Qorçalavnı deñiştir",
+	"apex-view-create": "Yarat",
+	"apex-view-edit": "Deñiştir",
+	"apex-view-history": "Keçmişini köster",
+	"apex-view-view": "Oqu",
+	"apex-view-viewsource": "Kodunı köster"
+}
