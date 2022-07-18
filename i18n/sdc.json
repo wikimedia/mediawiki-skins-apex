@@ -1,12 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
+			"F Samaritani",
 			"Jun Misugi"
 		]
 	},
 	"apex-action-addsection": "Aggiungì oggettu",
 	"apex-action-delete": "Canzillà",
+	"apex-action-move": "Ippustha",
 	"apex-action-protect": "Pruteggì",
+	"apex-action-undelete": "Non canzellà",
+	"apex-action-unprotect": "Ibbrucca",
 	"apex-view-create": "Crià",
 	"apex-view-edit": "Mudificà",
 	"apex-view-history": "Vèdi isthòria",
