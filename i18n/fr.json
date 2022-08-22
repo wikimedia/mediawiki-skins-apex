@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Ash Crow",
+			"Cigaryno",
 			"Derugon",
 			"Macofe",
 			"Od1n",
@@ -16,7 +17,7 @@
 	"apex-action-delete": "Supprimer",
 	"apex-action-move": "Déplacer",
 	"apex-action-protect": "Protéger",
-	"apex-action-undelete": "Rétablir",
+	"apex-action-undelete": "Restaurer",
 	"apex-action-unprotect": "Changer la protection",
 	"apex-view-create": "Créer",
 	"apex-view-edit": "Modifier",
