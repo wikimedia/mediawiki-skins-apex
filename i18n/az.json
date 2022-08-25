@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Toghrul Rahimli",
 			"Wertuose"
 		]
 	},
-	"apex-view-edit": "Redaktə et"
+	"apex-view-edit": "Redaktə et",
+	"apex-view-viewsource": "Kodu göstər"
 }
