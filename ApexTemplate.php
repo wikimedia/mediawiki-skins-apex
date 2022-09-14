@@ -73,7 +73,6 @@ class ApexTemplate extends BaseTemplate {
 				array_reverse( $this->data['personal_urls'] );
 		}
 		// Output HTML Page
-		$this->html( 'headelement' );
 ?>
 		<div class="apex-content-wrapper">
 			<div id="content" class="mw-body">
@@ -144,7 +143,7 @@ class ApexTemplate extends BaseTemplate {
 					<?php endforeach; ?>
 				</ul>
 			<?php endforeach; ?>
-			<?php $footericons = $this->getFooterIcons( "icononly" );
+			<?php $footericons = $this->getFooterIconsApex();
 			if ( $footericons ): ?>
 				<ul id="footer-icons" class="noprint">
 					<?php foreach ( $footericons as $blockName => $iconBlock ): ?>
@@ -158,10 +157,24 @@ class ApexTemplate extends BaseTemplate {
 			<?php endif; ?>
 			<div style="clear:both"></div>
 		</div>
-		<?php $this->printTrail(); ?>
-	</body>
-</html>
 <?php
+	}
+
+	/**
+	 * Return modified icons list
+	 *
+	 * @return array
+	 */
+	private function getFooterIconsApex(): array {
+		$footericons = $this->get( 'footericons' );
+		foreach ( $footericons as $footerIconsKey => &$footerIconsBlock ) {
+			foreach ( $footerIconsBlock as $footerIconKey => $footerIcon ) {
+				if ( !isset( $footerIcon['src'] ) ) {
+					unset( $footerIconsBlock[$footerIconKey] );
+				}
+			}
+		}
+		return $footericons;
 	}
 
 	/**
