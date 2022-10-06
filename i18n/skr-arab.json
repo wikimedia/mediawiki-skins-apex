@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Saraiki"
+		]
+	},
+	"apex-action-delete": "مٹاؤ",
+	"apex-action-move": "ٹورو",
+	"apex-action-protect": "حفاظت کرو",
+	"apex-action-undelete": "بحال",
+	"apex-action-unprotect": "تحفظ وچ تبدیلی",
+	"apex-view-create": "بݨاؤ",
+	"apex-view-edit": "لکھو",
+	"apex-view-history": "تاریخچہ ݙیکھو",
+	"apex-view-view": "پڑھو",
+	"apex-view-viewsource": "ماخذ ݙیکھو"
+}
