@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"बडा काजी"
+			"बडा काजी",
+			"पर्वत सुबेदी"
 		]
 	},
-	"apex-action-move": "सार्नुहोस्"
+	"apex-action-delete": "मेट्ने",
+	"apex-action-move": "सार्नुहोस्",
+	"apex-action-protect": "सुरक्षित"
 }
