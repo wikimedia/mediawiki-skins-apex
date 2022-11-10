@@ -4,11 +4,13 @@
 			"Yupik"
 		]
 	},
+	"skinname-apex": "Apex",
 	"apex-action-addsection": "Lââʹzzet teeʹm",
 	"apex-action-delete": "Jaukkâd",
 	"apex-action-move": "Seeʹrd",
 	"apex-action-protect": "Suõjjâd",
 	"apex-action-undelete": "Maaccât",
+	"apex-action-unprotect": "Muuʹtt suõjjeemtääʹzz",
 	"apex-view-create": "Raaj",
 	"apex-view-edit": "Muuʹtt",
 	"apex-view-history": "Čuäʹjet historia",
