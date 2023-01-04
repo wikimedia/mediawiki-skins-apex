@@ -7,5 +7,12 @@
 	"apex-action-addsection": "Ychwanegu pwnc",
 	"apex-action-delete": "Dileu",
 	"apex-action-move": "Symud",
+	"apex-action-protect": "Diogelu",
+	"apex-action-undelete": "Adfer",
+	"apex-action-unprotect": "Newid y diogelwch",
+	"apex-view-create": "Creu",
+	"apex-view-edit": "Golygu",
+	"apex-view-history": "Gweld yr hanes",
+	"apex-view-view": "Darllen",
 	"apex-view-viewsource": "Gweld y cod ffynhonnell"
 }
