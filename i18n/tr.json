@@ -3,7 +3,9 @@
 		"authors": [
 			"BaRaN6161 TURK",
 			"Mavrikant",
-			"Vito Genovese"
+			"Vito Genovese",
+			"MuratTheTurkish",
+			"Rapsar"
 		]
 	},
 	"apex-desc": "Vektörün modern versiyonu yeni görünüm ve daha fazla kullanılabilirlik iyileştirmesi ile birlikte",
@@ -14,7 +16,7 @@
 	"apex-action-undelete": "Geri al",
 	"apex-action-unprotect": "Korumayı değiştir",
 	"apex-view-create": "Oluştur",
-	"apex-view-edit": "Düzenle",
+	"apex-view-edit": "Değiştir",
 	"apex-view-history": "Geçmişi gör",
 	"apex-view-view": "Oku",
 	"apex-view-viewsource": "Kaynağı gör"
