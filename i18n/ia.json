@@ -5,6 +5,8 @@
 		]
 	},
 	"apex-desc": "Version moderne de Vector con un aspecto rejuvenescite e multe meliorationes ergonomic",
+	"apex.css": "/* Le codice CSS placiate hic affectara le usatores del apparentia Apex */",
+	"apex.js": "/* Le codice JavaScript placiate hic essera cargate pro le usatores del apparentia Apex */",
 	"apex-action-addsection": "Adder topico",
 	"apex-action-delete": "Deler",
 	"apex-action-move": "Displaciar",
