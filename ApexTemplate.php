@@ -245,7 +245,7 @@ class ApexTemplate extends BaseTemplate {
 			if ( $hook !== null ) {
 				// Avoid PHP 7.1 warning of passing $this by reference
 				$template = $this;
-				Hooks::run( $hook, [ &$template, true ] );
+				MediaWikiServices::getInstance()->getHookContainer()->run( $hook, [ &$template, true ] );
 			}
 			?>
 		</ul>
