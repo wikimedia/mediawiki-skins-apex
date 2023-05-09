@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Delim"
+		]
+	},
+	"apex-desc": "신선해 보이고 많은 사용성이 개선된 벡타의 현대 판본",
+	"apex-action-addsection": "새 주제",
+	"apex-action-delete": "삭제",
+	"apex-action-move": "이동",
+	"apex-action-protect": "보호",
+	"apex-action-undelete": "지우기취소",
+	"apex-action-unprotect": "보호 설정 바꾸기",
+	"apex-view-create": "만들기",
+	"apex-view-edit": "편집",
+	"apex-view-history": "력사 보기",
+	"apex-view-view": "읽기",
+	"apex-view-viewsource": "원본 보기"
+}
