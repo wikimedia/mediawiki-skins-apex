@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"apex-desc": "Savremena verzija Vektorske teme sa svežim izgledom i mnogim poboljšanjima upotrebljivosti",
+	"apex-action-addsection": "Dodaj temu",
+	"apex-action-delete": "Izbriši",
+	"apex-action-move": "Premjesti",
+	"apex-action-protect": "Zaštiti",
+	"apex-action-undelete": "Vrati",
+	"apex-action-unprotect": "Promijeni zaštitu",
+	"apex-view-create": "Napravi",
+	"apex-view-edit": "Uredi",
+	"apex-view-history": "Historija",
+	"apex-view-view": "Čitaj",
+	"apex-view-viewsource": "Izvor"
+}
