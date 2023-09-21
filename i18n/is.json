@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sveinn í Felli"
+			"Sveinn í Felli",
+			"Amire80"
 		]
 	},
 	"skinname-apex": "Apex",
 	"apex-desc": "Nútímaútgáfa af Vector með fersku útliti og mörgum endurbótum á notagildi",
-	"apex.css": "/* Allt CSS sem sett er hér mun  hafa áhrif á alla notendur Apex-skinnsins. */",
+	"apex.css": "/* Allt CSS sem sett er hér mun hafa áhrif á alla notendur Apex-skinnsins. */",
 	"apex.js": "/* Allt JavaScript sem sett er hér mun hafa áhrif á notendur Apex-skinnsins. */",
 	"apex-action-addsection": "Bæta við umræðu",
 	"apex-action-delete": "Eyða",
