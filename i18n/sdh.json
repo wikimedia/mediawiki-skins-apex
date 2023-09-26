@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"TerranBoy"
+		]
+	},
+	"apex-action-addsection": "ئزافەکردن باوەت",
+	"apex-action-delete": "سڕینەوە",
+	"apex-action-protect": "پیەرێزانن",
+	"apex-view-create": "دروسکردن",
+	"apex-view-edit": "دەسکاری",
+	"apex-view-history": "دین دیرووک",
+	"apex-view-view": "خوەنین",
+	"apex-view-viewsource": "دین سەرچاوە"
+}
