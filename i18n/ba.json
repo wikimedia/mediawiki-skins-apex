@@ -1,19 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sagan"
+			"Sagan",
+			"З. ӘЙЛЕ"
 		]
 	},
-	"apex-desc": "Хәҙерге заман «Векторлы» күренеше, биҙәлеш яңыртылған һәм яңы мөмкинлектәр файҙаланылған",
+	"apex-desc": "Яңыртылған биҙәлешле һәм ҡулланыуҙа бик күп яҡшыртыуҙар индерелгән «Векторлы» биҙәлеш темаһының заманса өлгөһө",
 	"apex-action-addsection": "Тема өҫтәргә",
 	"apex-action-delete": "Юйырға",
-	"apex-action-move": "Күсерергә",
+	"apex-action-move": "Күсеререгә",
 	"apex-action-protect": "Һаҡларға",
-	"apex-action-undelete": "Юйылғанды ҡайтарырға",
+	"apex-action-undelete": "Юйыуҙы кире алырға",
 	"apex-action-unprotect": "Һаҡлауҙы үҙгәртергә",
-	"apex-view-create": "Яһау",
+	"apex-view-create": "Булдырырға",
 	"apex-view-edit": "Үҙгәртергә",
-	"apex-view-history": "Тарихты ҡарау",
+	"apex-view-history": "Тарихты ҡарарға",
 	"apex-view-view": "Уҡырға",
-	"apex-view-viewsource": "Сығанаҡты ҡарау"
+	"apex-view-viewsource": "Сығанаҡ кодты ҡарарға"
 }
