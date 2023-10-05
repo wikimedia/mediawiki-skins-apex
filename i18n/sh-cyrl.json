@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vlad5250"
+		]
+	},
+	"apex-desc": "Савремена верзија Векторске теме са свијежим изгледом и многим побољшањима употребљивости",
+	"apex-action-addsection": "Додај тему",
+	"apex-action-delete": "Избриши",
+	"apex-action-move": "Премјести",
+	"apex-action-protect": "Заштити",
+	"apex-action-undelete": "Врати",
+	"apex-action-unprotect": "Промијени заштиту",
+	"apex-view-create": "Направи",
+	"apex-view-edit": "Уреди",
+	"apex-view-history": "Историја",
+	"apex-view-view": "Читај",
+	"apex-view-viewsource": "Извор"
+}
