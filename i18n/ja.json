@@ -2,11 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Aefgh39622",
+			"LaMagiaaa",
 			"Otokoume",
 			"Sudachi"
 		]
 	},
 	"apex-desc": "新鮮な外観と多くのユーザビリティの改善を備えたベクターの最新バージョン",
+	"apex.css": "/* ここに記述したCSSはApex外装の利用者に影響します */",
+	"apex.js": "/* ここにあるすべてのJavaScriptは、Apex外装を使用している利用者に対して読み込まれます */",
 	"apex-action-addsection": "話題を追加",
 	"apex-action-delete": "削除",
 	"apex-action-move": "移動",
