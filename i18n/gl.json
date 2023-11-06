@@ -5,6 +5,8 @@
 		]
 	},
 	"apex-desc": "Versión moderna da aparencia Vector, cun aspecto actualizado e moitas melloras de usabilidade",
+	"apex.css": "/* O CSS colocado aquí afectará aos usuarios da aparencia Apex */",
+	"apex.js": "/* O código JavaScript colocado aquí cargarase para os usuarios que utilicen a aparencia Apex */",
 	"apex-action-addsection": "Engadir un fío",
 	"apex-action-delete": "Borrar",
 	"apex-action-move": "Mover",
