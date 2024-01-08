@@ -3,9 +3,11 @@
 		"authors": [
 			"Eduardo Martinez",
 			"Macofe",
-			"Townie"
+			"Townie",
+			"SMP"
 		]
 	},
+	"apex-desc": "Versió moderna de Vector amb un aspecte fresc i moltes millores d'usabilitat",
 	"apex-action-addsection": "Afegeix un tema",
 	"apex-action-delete": "Suprimeix",
 	"apex-action-move": "Mou",
@@ -15,5 +17,6 @@
 	"apex-view-create": "Crea",
 	"apex-view-edit": "Edita",
 	"apex-view-history": "Mostra l'historial",
+	"apex-view-view": "Llegeix",
 	"apex-view-viewsource": "Mostra la font"
 }
