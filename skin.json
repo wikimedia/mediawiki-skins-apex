@@ -45,7 +45,7 @@
 			"scripts": "resources/apex.js"
 		},
 		"skins.apex.styles": {
-			"class": "ResourceLoaderSkinModule",
+			"class": "MediaWiki\\ResourceLoader\\SkinModule",
 			"features": {
 				"elements": true,
 				"content-media": true,
