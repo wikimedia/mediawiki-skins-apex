@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bashkorttan",
 			"Sagan",
 			"З. ӘЙЛЕ"
 		]
 	},
 	"apex-desc": "Яңыртылған биҙәлешле һәм ҡулланыуҙа бик күп яҡшыртыуҙар индерелгән «Векторлы» биҙәлеш темаһының заманса өлгөһө",
-	"apex-action-addsection": "Тема өҫтәргә",
+	"apex-action-addsection": "Тема өҫтәү",
 	"apex-action-delete": "Юйырға",
 	"apex-action-move": "Күсеререгә",
 	"apex-action-protect": "Һаҡларға",
@@ -14,7 +15,7 @@
 	"apex-action-unprotect": "Һаҡлауҙы үҙгәртергә",
 	"apex-view-create": "Булдырырға",
 	"apex-view-edit": "Үҙгәртергә",
-	"apex-view-history": "Тарихты ҡарарға",
-	"apex-view-view": "Уҡырға",
+	"apex-view-history": "Тарихты ҡарау",
+	"apex-view-view": "Уҡыу",
 	"apex-view-viewsource": "Сығанаҡ кодты ҡарарға"
 }
