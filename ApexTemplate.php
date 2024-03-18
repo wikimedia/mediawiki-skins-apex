@@ -78,40 +78,40 @@ class ApexTemplate extends BaseTemplate {
 			<div id="content" class="mw-body">
 				<a id="top"></a>
 				<div id="mw-js-message" style="display:none;"<?php $this->html( 'userlangattributes' ) ?>></div>
-				<?php if ( $this->data['sitenotice'] ): ?>
+				<?php if ( $this->data['sitenotice'] ) { ?>
 				<div id="siteNotice"><?php $this->html( 'sitenotice' ) ?></div>
-				<?php endif; ?>
+				<?php } ?>
 				<h1 id="firstHeading" class="firstHeading"><?php $this->html( 'title' ) ?></h1>
 				<div id="bodyContent">
-					<?php if ( $this->data['isarticle'] ): ?>
+					<?php if ( $this->data['isarticle'] ) { ?>
 					<div id="siteSub"><?php $this->msg( 'tagline' ) ?></div>
-					<?php endif; ?>
+					<?php } ?>
 					<div id="contentSub"<?php $this->html( 'userlangattributes' ) ?>><?php $this->html( 'subtitle' ) ?></div>
-					<?php if ( $this->data['undelete'] ): ?>
+					<?php if ( $this->data['undelete'] ) { ?>
 					<div id="contentSub2"><?php $this->html( 'undelete' ) ?></div>
-					<?php endif; ?>
-					<?php if ( $this->data['newtalk'] ): ?>
+					<?php } ?>
+					<?php if ( $this->data['newtalk'] ) { ?>
 					<div class="usermessage"><?php $this->html( 'newtalk' )  ?></div>
-					<?php endif; ?>
-					<?php if ( $this->data['showjumplinks'] ): ?>
+					<?php } ?>
+					<?php if ( $this->data['showjumplinks'] ) { ?>
 					<div id="jump-to-nav" class="mw-jump">
 						<?php $this->msg( 'jumpto' ) ?>
 						<a href="#mw-head"><?php $this->msg( 'jumptonavigation' ) ?></a><?php $this->msg( 'comma-separator' ) ?>
 						<a href="#p-search"><?php $this->msg( 'jumptosearch' ) ?></a>
 					</div>
-					<?php endif; ?>
+					<?php } ?>
 					<?php $this->html( 'bodycontent' ) ?>
-					<?php if ( $this->data['printfooter'] ): ?>
+					<?php if ( $this->data['printfooter'] ) { ?>
 					<div class="printfooter">
 					<?php $this->html( 'printfooter' ); ?>
 					</div>
-					<?php endif; ?>
-					<?php if ( $this->data['catlinks'] ): ?>
+					<?php } ?>
+					<?php if ( $this->data['catlinks'] ) { ?>
 					<?php $this->html( 'catlinks' ); ?>
-					<?php endif; ?>
-					<?php if ( $this->data['dataAfterContent'] ): ?>
+					<?php } ?>
+					<?php if ( $this->data['dataAfterContent'] ) { ?>
 					<?php $this->html( 'dataAfterContent' ); ?>
-					<?php endif; ?>
+					<?php } ?>
 					<div class="visualClear"></div>
 					<?php $this->html( 'debughtml' ); ?>
 				</div>
@@ -134,27 +134,27 @@ class ApexTemplate extends BaseTemplate {
 			<?php $this->renderPortals( $this->data['sidebar'] ); ?>
 		</div>
 		<div id="footer"<?php $this->html( 'userlangattributes' ) ?>>
-			<?php foreach ( $this->getFooterLinks() as $category => $links ): ?>
+			<?php foreach ( $this->getFooterLinks() as $category => $links ) { ?>
 				<ul id="footer-<?php echo $category ?>">
-					<?php foreach ( $links as $link ): ?>
+					<?php foreach ( $links as $link ) { ?>
 						<li id="footer-<?php echo $category ?>-<?php echo $link ?>">
 							<?php $this->html( $link ) ?>
 						</li>
-					<?php endforeach; ?>
+					<?php } ?>
 				</ul>
-			<?php endforeach; ?>
+			<?php } ?>
 			<?php $footericons = $this->getFooterIconsApex();
-			if ( $footericons ): ?>
+			if ( $footericons ) { ?>
 				<ul id="footer-icons" class="noprint">
-					<?php foreach ( $footericons as $blockName => $iconBlock ): ?>
+					<?php foreach ( $footericons as $blockName => $iconBlock ) { ?>
 					<li id="footer-<?php echo htmlspecialchars( $blockName ); ?>ico">
-						<?php foreach ( $iconBlock as $icon ): ?>
+						<?php foreach ( $iconBlock as $icon ) { ?>
 						<?php echo $this->getSkin()->makeFooterIcon( $icon ); ?>
-						<?php endforeach; ?>
+						<?php } ?>
 					</li>
-					<?php endforeach; ?>
+					<?php } ?>
 				</ul>
-			<?php endif; ?>
+			<?php } ?>
 			<div style="clear:both"></div>
 		</div>
 <?php
@@ -234,26 +234,26 @@ class ApexTemplate extends BaseTemplate {
 	?></h5>
 	<div class="body">
 <?php
-		if ( is_array( $content ) ): ?>
+if ( is_array( $content ) ) { ?>
 		<ul>
 <?php
-			foreach ( $content as $key => $val ): ?>
+foreach ( $content as $key => $val ) { ?>
 			<?php echo $this->makeListItem( $key, $val ); ?>
 
 <?php
-			endforeach;
-			if ( $hook !== null ) {
+}
+if ( $hook !== null ) {
 				// Avoid PHP 7.1 warning of passing $this by reference
 				$template = $this;
 				MediaWikiServices::getInstance()->getHookContainer()->run( $hook, [ &$template, true ] );
-			}
+}
 			?>
 		</ul>
 <?php
-		else:
-			// Allow raw HTML block to be defined by extensions
-			echo $content;
-		endif; ?>
+} else {
+	// Allow raw HTML block to be defined by extensions
+	echo $content;
+} ?>
 	</div>
 </div>
 <?php
@@ -280,14 +280,14 @@ class ApexTemplate extends BaseTemplate {
 				case 'NAMESPACES':
 ?>
 <div id="p-namespaces" class="apex-tabs<?php
-	if ( count( $this->data['namespace_urls'] ) == 0 ) {
-		echo ' emptyPortlet';
-	} ?>">
+if ( count( $this->data['namespace_urls'] ) == 0 ) {
+	echo ' emptyPortlet';
+} ?>">
 	<h5><?php $this->msg( 'namespaces' ) ?></h5>
 	<ul<?php $this->html( 'userlangattributes' ) ?>>
-		<?php foreach ( $this->data['namespace_urls'] as $link ): ?>
+		<?php foreach ( $this->data['namespace_urls'] as $link ) { ?>
 			<li <?php echo $link['attributes'] ?>><span><a href="<?php echo htmlspecialchars( $link['href'] ) ?>" <?php echo $link['key'] ?>><?php echo htmlspecialchars( $link['text'] ) ?></a></span></li>
-		<?php endforeach; ?>
+		<?php } ?>
 	</ul>
 </div>
 <?php
@@ -295,22 +295,22 @@ class ApexTemplate extends BaseTemplate {
 				case 'VARIANTS':
 ?>
 <div id="p-variants" class="apex-menu<?php
-	if ( count( $this->data['variant_urls'] ) == 0 ) {
-		echo ' emptyPortlet';
-	} ?>">
+if ( count( $this->data['variant_urls'] ) == 0 ) {
+	echo ' emptyPortlet';
+} ?>">
 	<h4>
-	<?php foreach ( $this->data['variant_urls'] as $link ): ?>
-		<?php if ( stripos( $link['attributes'], 'selected' ) !== false ): ?>
+	<?php foreach ( $this->data['variant_urls'] as $link ) { ?>
+		<?php if ( stripos( $link['attributes'], 'selected' ) !== false ) { ?>
 			<?php echo htmlspecialchars( $link['text'] ) ?>
-		<?php endif; ?>
-	<?php endforeach; ?>
+		<?php } ?>
+	<?php } ?>
 	</h4>
 	<h5><span><?php $this->msg( 'variants' ) ?></span><a href="#"></a></h5>
 	<div class="menu">
 		<ul>
-			<?php foreach ( $this->data['variant_urls'] as $link ): ?>
+			<?php foreach ( $this->data['variant_urls'] as $link ) { ?>
 				<li<?php echo $link['attributes'] ?>><a href="<?php echo htmlspecialchars( $link['href'] ) ?>" lang="<?php echo htmlspecialchars( $link['lang'] ) ?>" hreflang="<?php echo htmlspecialchars( $link['hreflang'] ) ?>" <?php echo $link['key'] ?>><?php echo htmlspecialchars( $link['text'] ) ?></a></li>
-			<?php endforeach; ?>
+			<?php } ?>
 		</ul>
 	</div>
 </div>
@@ -319,19 +319,19 @@ class ApexTemplate extends BaseTemplate {
 				case 'VIEWS':
 ?>
 <div id="p-views" class="apex-tabs<?php
-	if ( count( $this->data['view_urls'] ) == 0 ) {
-		echo ' emptyPortlet';
-	} ?>">
+if ( count( $this->data['view_urls'] ) == 0 ) {
+	echo ' emptyPortlet';
+} ?>">
 	<h5><?php $this->msg( 'views' ) ?></h5>
 	<ul<?php $this->html( 'userlangattributes' ) ?>>
-		<?php foreach ( $this->data['view_urls'] as $link ): ?>
+		<?php foreach ( $this->data['view_urls'] as $link ) { ?>
 			<li<?php echo $link['attributes'] ?>><span><a href="<?php echo htmlspecialchars( $link['href'] ) ?>" <?php echo $link['key'] ?>><?php
 				// $link['text'] can be undefined - bug 27764
-				if ( array_key_exists( 'text', $link ) ) {
-					echo array_key_exists( 'img', $link ) ? '<img src="' . $link['img'] . '" alt="' . $link['text'] . '" />' : htmlspecialchars( $link['text'] );
-				}
+			if ( array_key_exists( 'text', $link ) ) {
+				echo array_key_exists( 'img', $link ) ? '<img src="' . $link['img'] . '" alt="' . $link['text'] . '" />' : htmlspecialchars( $link['text'] );
+			}
 				?></a></span></li>
-		<?php endforeach; ?>
+		<?php } ?>
 	</ul>
 </div>
 <?php
@@ -339,15 +339,15 @@ class ApexTemplate extends BaseTemplate {
 				case 'ACTIONS':
 ?>
 <div id="p-cactions" class="apex-menu<?php
-	if ( count( $this->data['action_urls'] ) == 0 ) {
-		echo ' emptyPortlet';
-	} ?>">
+if ( count( $this->data['action_urls'] ) == 0 ) {
+	echo ' emptyPortlet';
+} ?>">
 	<h5><span><?php $this->msg( 'actions' ) ?></span><a href="#"></a></h5>
 	<div class="apex-menu-popup">
 		<ul<?php $this->html( 'userlangattributes' ) ?>>
-			<?php foreach ( $this->data['action_urls'] as $link ): ?>
+			<?php foreach ( $this->data['action_urls'] as $link ) { ?>
 				<li<?php echo $link['attributes'] ?>><span><a href="<?php echo htmlspecialchars( $link['href'] ) ?>" <?php echo $link['key'] ?>><?php echo htmlspecialchars( $link['text'] ) ?></span></a></li>
-			<?php endforeach; ?>
+			<?php } ?>
 		</ul>
 	</div>
 </div>
@@ -356,23 +356,23 @@ class ApexTemplate extends BaseTemplate {
 				case 'PERSONAL':
 ?>
 <div id="p-personal" class="<?php
-	if ( count( $this->data['personal_urls'] ) == 0 ) {
-		echo ' emptyPortlet';
-	} ?>">
+if ( count( $this->data['personal_urls'] ) == 0 ) {
+	echo ' emptyPortlet';
+} ?>">
 	<h5><?php $this->msg( 'personaltools' ) ?></h5>
 	<ul<?php $this->html( 'userlangattributes' ) ?>>
-		<?php foreach ( $this->getPersonalTools() as $key => $item ): ?>
-			<?php if ( $key === 'userpage' ): ?>
+		<?php foreach ( $this->getPersonalTools() as $key => $item ) { ?>
+			<?php if ( $key === 'userpage' ) { ?>
 			<?php echo $this->makeListItem( $key, $item ); ?>
-			<?php endif; ?>
-		<?php endforeach; ?>
+			<?php } ?>
+		<?php } ?>
 	</ul>
 	<ul<?php $this->html( 'userlangattributes' ) ?> class="apex-menu-popup">
-		<?php foreach ( $this->getPersonalTools() as $key => $item ): ?>
-			<?php if ( $key !== 'userpage' ): ?>
+		<?php foreach ( $this->getPersonalTools() as $key => $item ) { ?>
+			<?php if ( $key !== 'userpage' ) { ?>
 			<?php echo $this->makeListItem( $key, $item ); ?>
-			<?php endif; ?>
-		<?php endforeach; ?>
+			<?php } ?>
+		<?php } ?>
 	</ul>
 </div>
 <?php
