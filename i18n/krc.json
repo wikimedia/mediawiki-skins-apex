@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Къарачайлы"
+		]
+	},
+	"apex-desc": "Векторну модерн версиясыны джангы кёрюнюмю эмда андан да аслам хайырланырча маджаллашдырыу бла бирликде",
+	"apex-action-addsection": "Тема къош",
+	"apex-action-delete": "Кетер",
+	"apex-action-move": "Орнундан кёчюр",
+	"apex-action-protect": "Джакъла",
+	"apex-action-undelete": "Кери келтир",
+	"apex-action-unprotect": "Джакълауну тюрлендир",
+	"apex-view-create": "Къура",
+	"apex-view-edit": "Тюзет",
+	"apex-view-history": "Тарихни кёргюз",
+	"apex-view-view": "Окъу",
+	"apex-view-viewsource": "Къайнакъны кёргюз"
+}
