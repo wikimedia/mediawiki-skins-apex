@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Исмаил Садуев",
 			"Умар"
 		]
 	},
@@ -11,7 +12,7 @@
 	"apex-action-undelete": "Йухадаккха дӀайаккхар",
 	"apex-action-unprotect": "Ларйар хийцар",
 	"apex-view-create": "Кхолла",
-	"apex-view-edit": "Нисйе",
+	"apex-view-edit": "Нисйан",
 	"apex-view-history": "Исторега хьажа",
 	"apex-view-view": "Йеша",
 	"apex-view-viewsource": "Коде хьажар"
