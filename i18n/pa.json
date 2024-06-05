@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tow"
+			"Tow",
+			"Cabal"
 		]
 	},
 	"apex-action-addsection": "ਵਿਸ਼ਾ ਜੋੜੋ",
@@ -12,7 +13,7 @@
 	"apex-action-unprotect": "ਸੁਰੱਖਿਆ ਬਦਲੋ",
 	"apex-view-create": "ਬਣਾਓ",
 	"apex-view-edit": "ਸੋਧੋ",
-	"apex-view-history": "ਅਤੀਤ ਵੇਖੋ",
+	"apex-view-history": "ਇਤਿਹਾਸ ਵੇਖੋ",
 	"apex-view-view": "ਪੜ੍ਹੋ",
 	"apex-view-viewsource": "ਸਰੋਤ ਵੇਖੋ"
 }
