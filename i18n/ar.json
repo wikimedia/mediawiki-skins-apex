@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Karim185.3",
 			"Maroen1990",
 			"Meno25",
 			"Michel Bakni",
@@ -17,7 +18,7 @@
 	"apex-action-delete": "احذف",
 	"apex-action-move": "انقل",
 	"apex-action-protect": "حماية",
-	"apex-action-undelete": "ألغ الحذف",
+	"apex-action-undelete": "استرجع",
 	"apex-action-unprotect": "غير الحماية",
 	"apex-view-create": "أنشئ",
 	"apex-view-edit": "تعديل",
