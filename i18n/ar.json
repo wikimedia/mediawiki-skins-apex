@@ -6,7 +6,8 @@
 			"Michel Bakni",
 			"ديفيد",
 			"زكريا",
-			"علاء"
+			"علاء",
+			"Karim185.3"
 		]
 	},
 	"skinname-apex": "أبكس",
@@ -17,7 +18,7 @@
 	"apex-action-delete": "احذف",
 	"apex-action-move": "انقل",
 	"apex-action-protect": "حماية",
-	"apex-action-undelete": "ألغ الحذف",
+	"apex-action-undelete": "استرجع",
 	"apex-action-unprotect": "غير الحماية",
 	"apex-view-create": "أنشئ",
 	"apex-view-edit": "تعديل",
