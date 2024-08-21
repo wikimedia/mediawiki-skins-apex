@@ -227,7 +227,7 @@ class ApexTemplate extends BaseTemplate {
 			$msg = $name;
 		}
 		?>
-<div class="portal" id='<?php echo Sanitizer::escapeIdForAttribute( "p-$name" ) ?>'<?php echo Linker::tooltip( 'p-' . $name ) ?>>
+<div class="portal" id='<?php echo htmlspecialchars( Sanitizer::escapeIdForAttribute( "p-$name" ), ENT_QUOTES ) ?>'<?php echo Linker::tooltip( 'p-' . $name ) ?>>
 	<h5<?php $this->html( 'userlangattributes' ) ?>><?php
 		$msgObj = wfMessage( $msg );
 		echo htmlspecialchars( $msgObj->exists() ? $msgObj->text() : $msg );
