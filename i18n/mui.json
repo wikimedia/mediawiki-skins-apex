@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jawadywn"
+		]
+	},
+	"apex-action-move": "Ringgutke",
+	"apex-action-protect": "Alingi",
+	"apex-action-undelete": "Urung ngapus",
+	"apex-action-unprotect": "Robah alingan",
+	"apex-view-create": "Ngawé'",
+	"apex-view-edit": "Dandani",
+	"apex-view-history": "Seli' wayat",
+	"apex-view-view": "Baco",
+	"apex-view-viewsource": "Seli' sumber"
+}
