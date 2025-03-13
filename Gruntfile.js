@@ -19,9 +19,10 @@ module.exports = function ( grunt ) {
 			]
 		},
 		stylelint: {
-			all: [
-				'resources/**/*.css'
-			]
+			options: {
+				cache: true
+			},
+			all: [ 'resources/**/*.css' ]
 		},
 		banana: conf.MessagesDirs,
 		watch: {
