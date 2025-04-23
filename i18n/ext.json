@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"HackerPunki"
+		]
+	},
+	"apex-action-addsection": "Añidil tema",
+	"apex-action-delete": "Aborral",
+	"apex-action-move": "Movel",
+	"apex-action-protect": "Protegel",
+	"apex-action-unprotect": "Mual proteción",
+	"apex-view-create": "Crial",
+	"apex-view-edit": "Dital",
+	"apex-view-view": "Leyel"
+}
