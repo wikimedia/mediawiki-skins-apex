@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"IJzeren Jan"
+		]
+	},
+	"apex-desc": "Sučasna versija temy «Vector» so svěžim izgledom i mnogymi ulěpšenjami v upotrěbimosti.",
+	"apex-action-addsection": "Dodati temu",
+	"apex-action-delete": "Udaliti",
+	"apex-action-move": "Prěimenovati",
+	"apex-action-protect": "Zaščititi",
+	"apex-action-undelete": "Vratiti",
+	"apex-action-unprotect": "Izměniti zaščitu",
+	"apex-view-create": "Stvoriti",
+	"apex-view-edit": "Praviti",
+	"apex-view-history": "Pokazati historiju",
+	"apex-view-view": "Čitati",
+	"apex-view-viewsource": "Pokazati izvorny kod"
+}
