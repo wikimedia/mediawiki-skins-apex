@@ -22,7 +22,7 @@
 	};
 
 	mw.ApexSkin.prototype.onResize = function () {
-		var i, stashable, $item, $anchor, width,
+		let i, stashable, $item, $anchor, width,
 			$actionsList = this.$actionsList,
 			stash = this.stash,
 			gap = this.$navRight.offset().left -
@@ -64,7 +64,7 @@
 		}
 	};
 
-	$( function () {
+	$( () => {
 		mw.skin = new mw.ApexSkin();
 	} );
 
