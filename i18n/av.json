@@ -8,8 +8,13 @@
 	},
 	"apex-action-addsection": "ТӀадежубазе тема",
 	"apex-action-delete": "Гилдизе",
+	"apex-action-move": "ЦӀар хисизе",
+	"apex-action-protect": "ЦӀунизе",
+	"apex-action-undelete": "ГилдунгутӀизе",
+	"apex-action-unprotect": "ЦӀуни хисизе",
 	"apex-view-create": "Гьабизе",
 	"apex-view-edit": "Хисизабизе",
 	"apex-view-history": "История бихьизе",
+	"apex-view-view": "ЦӀализе",
 	"apex-view-viewsource": "Ицц бихьизе"
 }
