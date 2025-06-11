@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mehman97"
+		]
+	},
+	"skinname-apex": "აპექსი",
+	"apex-action-addsection": "თემის დამატება",
+	"apex-action-delete": "წაშლა",
+	"apex-action-move": "გადატანა",
+	"apex-action-protect": "დაცვა",
+	"apex-action-undelete": "წაშლის გაუქმება",
+	"apex-action-unprotect": "დაცვის შეცვლა",
+	"apex-view-create": "შექმნა",
+	"apex-view-edit": "რედაქტირება",
+	"apex-view-history": "ისტორიის ნახვა",
+	"apex-view-view": "კითხვა",
+	"apex-view-viewsource": "წყაროს ნახვა"
+}
