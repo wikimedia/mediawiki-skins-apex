@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmed-Najib-Biabani-Ibrahimkhel"
+			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"شاه زمان پټان"
 		]
 	},
-	"apex-action-addsection": "سرليک ورگډول",
+	"apex-desc": "د وېکتور وسمهاله بڼه له وي ليد او ډېری کاري وړتياوو ښه‌والي سره",
+	"apex-action-addsection": "سکالو ورگډول",
 	"apex-action-delete": "ړنگول",
 	"apex-action-move": "لېږدول",
 	"apex-action-protect": "ژغورل",
