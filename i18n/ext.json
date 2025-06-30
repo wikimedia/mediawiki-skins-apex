@@ -6,10 +6,12 @@
 	},
 	"apex-action-addsection": "Añidil tema",
 	"apex-action-delete": "Aborral",
-	"apex-action-move": "Movel",
-	"apex-action-protect": "Protegel",
-	"apex-action-unprotect": "Mual proteción",
+	"apex-action-move": "Mual",
+	"apex-action-protect": "Afial",
+	"apex-action-unprotect": "Mual afíu",
 	"apex-view-create": "Crial",
-	"apex-view-edit": "Dital",
-	"apex-view-view": "Leyel"
+	"apex-view-edit": "Adital",
+	"apex-view-history": "Vél estorial",
+	"apex-view-view": "Leyel",
+	"apex-view-viewsource": "Vél cóigu huenti"
 }
