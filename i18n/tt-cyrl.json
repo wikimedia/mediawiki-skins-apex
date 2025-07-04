@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ильгиз",
 			"Ильнар"
 		]
 	},
@@ -9,7 +10,7 @@
 	"apex-action-delete": "Бетерү",
 	"apex-action-move": "Күчерү",
 	"apex-action-protect": "Яклау",
-	"apex-action-undelete": "Кайтару",
+	"apex-action-undelete": "Бетерүдән кайтар",
 	"apex-action-unprotect": "Яклауны үзгәртү",
 	"apex-view-create": "Төзү",
 	"apex-view-edit": "Үзгәртү",
