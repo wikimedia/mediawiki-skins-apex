@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ильнар"
+			"Ильнар",
+			"Ильгиз"
 		]
 	},
 	"apex-desc": "Хәзерге заманга туры килгән «Сызымлы» күренеше, яңа бизәлеш һәм яңа мөмкинлекләр",
@@ -9,7 +10,7 @@
 	"apex-action-delete": "Бетерү",
 	"apex-action-move": "Күчерү",
 	"apex-action-protect": "Яклау",
-	"apex-action-undelete": "Кайтару",
+	"apex-action-undelete": "Бетерүдән кайтар",
 	"apex-action-unprotect": "Яклауны үзгәртү",
 	"apex-view-create": "Төзү",
 	"apex-view-edit": "Үзгәртү",
