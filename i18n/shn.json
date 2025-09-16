@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saosukham"
+			"Saosukham",
+			"Saimawnkham"
 		]
 	},
 	"apex-action-addsection": "ထႅမ်သႂ်ႇ ႁူဝ်ၶေႃႈ",
-	"apex-action-delete": "ယႃႉ",
+	"apex-action-delete": "မွတ်ႇပႅတ်ႈ",
 	"apex-action-move": "ၶၢႆႉ",
 	"apex-action-protect": "ႁေႉၵင်ႈ",
 	"apex-action-undelete": "ဢမ်ႇယႃႉ",
