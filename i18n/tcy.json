@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"ChiK",
 			"VASANTH S.N."
 		]
 	},
@@ -14,5 +15,5 @@
 	"apex-view-edit": "ಸಂಪೊಲಿಪುಲೆ",
 	"apex-view-history": "ಇತಿಹಾಸೊನು ತೂಲೆ",
 	"apex-view-view": "ಓದ್‍ಲೆ",
-	"apex-view-viewsource": "ಮೂಲೊನು ತೂಲೆ"
+	"apex-view-viewsource": "ಮೂಲೊ ತೂಲೆ"
 }
