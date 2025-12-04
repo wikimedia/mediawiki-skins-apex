@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Red Winged Duck"
+			"Red Winged Duck",
+			"Ucukor"
 		]
 	},
 	"apex-desc": "Сучасная вэрсія тэмы афармленьня Vector з абноўленым выглядам і паляпшэньнямі ў зручнасьці",
@@ -15,5 +16,5 @@
 	"apex-view-edit": "Рэдагаваць",
 	"apex-view-history": "Паказаць гісторыю",
 	"apex-view-view": "Чытаць",
-	"apex-view-viewsource": "Паказаць крыніцу"
+	"apex-view-viewsource": "Прагляд коду"
 }
