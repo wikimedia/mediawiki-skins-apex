@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bennylin"
+		]
+	},
+	"apex-action-addsection": "ꦠꦩ꧀ꦧꦃ​ꦠꦺꦴꦥꦶꦏ꧀",
+	"apex-action-delete": "ꦧꦸꦱꦏ꧀",
+	"apex-action-move": "ꦭꦶꦃ",
+	"apex-action-protect": "ꦉꦏ꧀ꦱ",
+	"apex-action-undelete": "ꦮꦸꦫꦸꦁ​ꦧꦸꦱꦏ꧀",
+	"apex-action-unprotect": "ꦲꦺꦴꦮꦃꦉꦉꦏ꧀ꦱꦤ꧀",
+	"apex-view-create": "ꦒꦮꦺ",
+	"apex-view-edit": "ꦧꦼꦱꦸꦠ꧀",
+	"apex-view-history": "ꦢꦼꦊꦁ​ꦱꦗꦫꦃ",
+	"apex-view-view": "ꦮꦕ",
+	"apex-view-viewsource": "ꦢꦼꦊꦁ​ꦱꦸꦩ꧀ꦧꦼꦂ"
+}
