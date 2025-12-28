@@ -1,5 +1,6 @@
 <?php
 
+use MediaWiki\Html\Html;
 use MediaWiki\Linker\Linker;
 use MediaWiki\MediaWikiServices;
 
@@ -55,7 +56,7 @@ class ApexTemplate extends BaseTemplate {
 						Linker::tooltip( $xmlID );
 				} else {
 					$nav[$section][$key]['key'] =
-						Xml::expandAttributes( Linker::tooltipAndAccesskeyAttribs( $xmlID ) );
+						Html::expandAttributes( Linker::tooltipAndAccesskeyAttribs( $xmlID ) );
 				}
 			}
 		}
@@ -119,7 +120,7 @@ class ApexTemplate extends BaseTemplate {
 			</div>
 		</div>
 		<div id="mw-head" class="noprint">
-			<div id="p-logo"><a style="background-image: url(<?php $this->text( 'logopath-1x' ) ?>);" href="<?php echo htmlspecialchars( $this->data['nav_urls']['mainpage']['href'] ) ?>" <?php echo Xml::expandAttributes( Linker::tooltipAndAccesskeyAttribs( 'p-logo' ) ) ?>><span><?php echo $sitename ?></span></a></div>
+			<div id="p-logo"><a style="background-image: url(<?php $this->text( 'logopath-1x' ) ?>);" href="<?php echo htmlspecialchars( $this->data['nav_urls']['mainpage']['href'] ) ?>" <?php echo Html::expandAttributes( Linker::tooltipAndAccesskeyAttribs( 'p-logo' ) ) ?>><span><?php echo $sitename ?></span></a></div>
 			<?php $this->renderNavigation( [ 'SEARCH', 'PERSONAL' ] ); ?>
 			<div class="apex-nav">
 				<div class="apex-nav-primary">
