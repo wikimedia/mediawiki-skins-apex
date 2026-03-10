@@ -2,14 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Les Meloures",
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
 	"apex-desc": "Modern Versioun vu Vecor mat frëschem Look a ville Verbesserunge vun der Benotzerfrëndlechkeet",
 	"apex-action-addsection": "Sujet derbäisetzen",
 	"apex-action-delete": "Läschen",
 	"apex-action-move": "Réckelen",
-	"apex-action-protect": "Spären",
+	"apex-action-protect": "Protegéieren",
 	"apex-action-undelete": "Restauréieren",
 	"apex-action-unprotect": "Spär änneren",
 	"apex-view-create": "Uleeën",

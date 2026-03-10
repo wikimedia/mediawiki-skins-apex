@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"SolidBlock",
-			"列维劳德"
+			"列维劳德",
+			"Davidzdh"
 		]
 	},
 	"apex-desc": "動力之時髦版，新觀與善用",
@@ -14,7 +15,7 @@
 	"apex-action-unprotect": "變保",
 	"apex-view-create": "創",
 	"apex-view-edit": "纂",
-	"apex-view-history": "覽史",
+	"apex-view-history": "覽誌",
 	"apex-view-view": "閱",
 	"apex-view-viewsource": "閱碼"
 }
