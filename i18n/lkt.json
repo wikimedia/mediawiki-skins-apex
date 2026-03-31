@@ -5,7 +5,11 @@
 		]
 	},
 	"apex-action-delete": "Iháƞgya {{GENDER:|yo|ye|yo/ye}}",
+	"apex-action-move": "Tȟokšu̇",
 	"apex-action-protect": "Nakíčižiƞ {{GENDER:|yo|ye|yo/ye}}",
+	"apex-action-undelete": "Yukíni",
+	"apex-action-unprotect": "Nakíčižiƞpi yutȟókeča",
+	"apex-view-create": "Káǧa",
 	"apex-view-edit": "Yutȟókeča",
 	"apex-view-history": "Eháŋni wóyakapi",
 	"apex-view-view": "Yawá",
