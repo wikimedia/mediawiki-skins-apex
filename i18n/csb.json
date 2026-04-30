@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kaszeba"
+			"Kaszeba",
+			"Iketsi"
 		]
 	},
 	"apex-desc": "Mòdernô wersëjô skórczi Vector z nowim wëzdrzatkã ë pòprôkama òbsłëdżi",
@@ -13,7 +14,7 @@
 	"apex-action-unprotect": "Zmieni zazychrowanié",
 	"apex-view-create": "Ùsadzë",
 	"apex-view-edit": "Editëjë",
-	"apex-view-history": "Historëjô lopka",
+	"apex-view-history": "Historëjô",
 	"apex-view-view": "Czëtôj",
 	"apex-view-viewsource": "Wëskrzëni zdrój"
 }
