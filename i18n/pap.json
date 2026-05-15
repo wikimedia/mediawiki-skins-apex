@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kallmemel"
+		]
+	},
+	"apex-action-delete": "Eliminá",
+	"apex-action-move": "Move",
+	"apex-action-protect": "Protehá",
+	"apex-action-undelete": "Restourá",
+	"apex-action-unprotect": "Kambia protekshon",
+	"apex-view-create": "Krea",
+	"apex-view-edit": "Editá",
+	"apex-view-history": "Bista di historia"
+}
