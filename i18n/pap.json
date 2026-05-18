@@ -4,6 +4,8 @@
 			"Kallmemel"
 		]
 	},
+	"apex-desc": "Vershon moderno di Vektor ku un aspekto fresku i hopi mehorashon di usabilidat",
+	"apex-action-addsection": "Agregá tópiko",
 	"apex-action-delete": "Eliminá",
 	"apex-action-move": "Move",
 	"apex-action-protect": "Protehá",
@@ -11,5 +13,7 @@
 	"apex-action-unprotect": "Kambia protekshon",
 	"apex-view-create": "Krea",
 	"apex-view-edit": "Editá",
-	"apex-view-history": "Bista di historia"
+	"apex-view-history": "Bista di historia",
+	"apex-view-view": "Lesa",
+	"apex-view-viewsource": "Mira fuente-kódigo"
 }
