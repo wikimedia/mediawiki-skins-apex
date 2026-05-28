@@ -16,7 +16,7 @@
 	"apex-action-delete": "삭제",
 	"apex-action-move": "이동",
 	"apex-action-protect": "보호",
-	"apex-action-undelete": "삭제 취소",
+	"apex-action-undelete": "복구",
 	"apex-action-unprotect": "보호 설정 바꾸기",
 	"apex-view-create": "만들기",
 	"apex-view-edit": "편집",
