@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"skinname-apex": "Apex",
+	"apex-desc": "Moderná verzia Vectoru so svižným vzhľadom a mnohými vylepšeniami použiteľnosti",
+	"apex.css": "/* CSS umiestnené tu ovplyvní používateľov témy vzhľadu Apex */",
+	"apex.js": "/* JavaScript umiestnený tu sa načíta používateľom témy vzhľadu Apex */",
+	"apex-action-addsection": "Pridať tému",
+	"apex-action-delete": "Odstrániť",
+	"apex-action-move": "Presunúť",
+	"apex-action-protect": "Chrániť",
+	"apex-action-undelete": "Obnoviť",
+	"apex-action-unprotect": "Zmeniť ochranu",
+	"apex-view-create": "Vytvoriť",
+	"apex-view-edit": "Upraviť",
+	"apex-view-history": "Zobraziť históriu",
+	"apex-view-view": "Čítať",
+	"apex-view-viewsource": "Zobraziť zdroj"
+}
