@@ -6,6 +6,7 @@
 		"declaration-block-no-duplicate-properties": null,
 		"function-name-case": null,
 		"function-no-unknown": null,
-		"no-empty-source": null
+		"no-empty-source": null,
+		"declaration-property-value-no-unknown": null
 	}
 }
