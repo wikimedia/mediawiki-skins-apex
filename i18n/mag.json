@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"ऐक्टिवेटेड्"
+		]
+	},
+	"apex-action-addsection": "विषय जोड़थिन",
+	"apex-action-delete": "हटावथिन",
+	"apex-action-move": "स्थानान्तरण करथिन",
+	"apex-action-protect": "सुरक्षित करथिन",
+	"apex-action-undelete": "हटावल वापिस लेथिन",
+	"apex-action-unprotect": "सुरक्षा बदलथिन",
+	"apex-view-create": "बनावथिन",
+	"apex-view-edit": "सम्पादित करथिन",
+	"apex-view-history": "इतिहास देखथिन",
+	"apex-view-view": "पढ़थिन",
+	"apex-view-viewsource": "स्रोत देखथिन"
+}
