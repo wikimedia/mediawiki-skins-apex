@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bachounda"
+		]
+	},
+	"apex-desc": "نسخة عصرية من تصميم Vector بشكل جديد وتحسينات كثيرة في الاستعمالية.",
+	"apex-action-addsection": "زيد موضوع",
+	"apex-action-delete": "امحي",
+	"apex-action-move": "حول",
+	"apex-action-protect": "حمايه",
+	"apex-action-undelete": "ردّ كيما كان",
+	"apex-action-unprotect": "بدّل الحمايه",
+	"apex-view-create": "أصنع",
+	"apex-view-edit": "بدّل",
+	"apex-view-history": "شوف التاريخ",
+	"apex-view-view": "اقرى",
+	"apex-view-viewsource": "شوف الاصل"
+}
