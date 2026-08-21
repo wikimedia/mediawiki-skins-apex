@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Anakmalaysia"
+			"Anakmalaysia",
+			"Hakimi97"
 		]
 	},
-	"apex-desc": "Versi moden Vector dengan rupa yang segar dan banyak peningkatan kebolehgunaan",
+	"apex-desc": "Versi moden Vektor dengan rupa yang segar dan banyak peningkatan kebolehgunaan",
 	"apex-action-addsection": "Tambah topik",
 	"apex-action-delete": "Hapuskan",
 	"apex-action-move": "Alihkan",
