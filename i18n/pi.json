@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"咽頭べさ"
+		]
+	},
+	"apex-desc": "वेक्टर विसयस्स नविनबन्धो नविनाकारेन अनेकाहि सुखसम्पादितुपयोगाहि च सह",
+	"apex-action-addsection": "विसयं संयोजेहि",
+	"apex-action-delete": "निहरहि",
+	"apex-action-move": "सन्तारेहि",
+	"apex-action-protect": "गोपेहि",
+	"apex-action-undelete": "पच्चाहरहि",
+	"apex-action-unprotect": "गुत्तिं विपरिवत्तेहि",
+	"apex-view-create": "निम्मिनोहि",
+	"apex-view-edit": "संसोधेहि",
+	"apex-view-history": "इतिहासं पस्सहि",
+	"apex-view-view": "वाचेहि",
+	"apex-view-viewsource": "मूलं पस्सहि"
+}
