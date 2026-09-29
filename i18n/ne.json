@@ -5,7 +5,11 @@
 			"बडा काजी"
 		]
 	},
-	"apex-action-delete": "मेट्ने",
+	"apex-action-delete": "मेटाउनुहोस्",
 	"apex-action-move": "सार्नुहोस्",
-	"apex-action-protect": "सुरक्षित"
+	"apex-action-protect": "सुरक्षित",
+	"apex-view-create": "सृजना गर्नुहोस्",
+	"apex-view-edit": "सम्पादन",
+	"apex-view-history": "इतिहास हेर्नुहोस्",
+	"apex-view-view": "पढ्नुहोस्"
 }
