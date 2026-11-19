@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"AmaryllisGardener",
-			"CiphriusKane"
+			"CiphriusKane",
+			"Monospaced"
 		]
 	},
 	"apex-desc": "Modren version o Vector wi fresh leuk an mony uisability impruivements",
@@ -13,7 +14,7 @@
 	"apex-action-undelete": "Undelete",
 	"apex-action-unprotect": "Chynge protection",
 	"apex-view-create": "Create",
-	"apex-view-edit": "Eedit",
+	"apex-view-edit": "Edit",
 	"apex-view-history": "See history",
 	"apex-view-view": "Read",
 	"apex-view-viewsource": "View soorce"
